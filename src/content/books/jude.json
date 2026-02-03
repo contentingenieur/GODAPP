@@ -1,0 +1,62 @@
+{
+  "overview": "Jude is an urgent appeal to contend for the faith against false teachers who have crept into the church. It warns of judgment using Old Testament examples while calling believers to persevere.",
+  "verses": [
+    {
+      "reference": "Jude 1:24-25",
+      "text": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Jude 1:3",
+      "text": "Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Contend for the Faith",
+      "reference": "Jude 3-4",
+      "summary": "Jude urges believers to fight for the true faith because false teachers have secretly slipped in, distorting grace.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Great Doxology",
+      "reference": "Jude 24-25",
+      "summary": "One of Scripture's most majestic doxologies—God can keep us from falling and present us blameless with great joy.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Jude was Jesus' half-brother (along with James), though he humbly calls himself just 'a servant of Jesus Christ.'",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Jude quotes from 1 Enoch (v. 14-15), a Jewish text not in our Bible but known to his readers.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Much of Jude parallels 2 Peter 2, suggesting one author knew the other's work.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The doxology (verses 24-25) is frequently used to close worship services.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jude",
+      "description": "Jesus' brother who writes urgently to defend the faith against those corrupting it from within.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Jude Overview",
+      "youtubeId": "6UoCmakZmys",
+      "description": "The Bible Project explores Jude's urgent call to contend for the faith.",
+      "audiences": ["all"]
+    }
+  ]
+}

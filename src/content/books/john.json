@@ -1,0 +1,104 @@
+{
+  "overview": "John is the most theological Gospel, presenting Jesus as the eternal Word made flesh. Through seven signs and seven 'I AM' statements, John shows that Jesus is the Son of God who gives eternal life.",
+  "verses": [
+    {
+      "reference": "John 3:16",
+      "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "John 14:6",
+      "text": "Jesus said to him, 'I am the way, and the truth, and the life. No one comes to the Father except through me.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "John 1:14",
+      "text": "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "John 11:25-26",
+      "text": "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die.'",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "John 8:32",
+      "text": "And you will know the truth, and the truth will set you free.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Prologue",
+      "reference": "John 1:1-18",
+      "summary": "John declares that Jesus is the eternal Word who was with God and was God, who became flesh to reveal God's glory.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Jesus and Nicodemus",
+      "reference": "John 3:1-21",
+      "summary": "Jesus tells a religious leader he must be 'born again' and explains God's love in sending His Son to save the world.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Resurrection of Lazarus",
+      "reference": "John 11:1-44",
+      "summary": "Jesus raises His friend from the dead after four days, declaring Himself the resurrection and the life.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "John 3:16 is called 'the gospel in a nutshell'—perhaps the most famous verse in the Bible.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "John records seven 'I AM' statements of Jesus, echoing God's name revealed to Moses.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "John's stated purpose: 'that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life' (20:31).",
+      "audiences": ["new-faith"]
+    },
+    {
+      "text": "About 90% of John's content is unique—not found in the other three Gospels.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jesus",
+      "description": "The eternal Word made flesh, the Son of God who reveals the Father and gives eternal life to all who believe.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "John",
+      "description": "The 'beloved disciple' who wrote this Gospel, likely the youngest apostle who outlived the others.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "Nicodemus",
+      "description": "A Pharisee who came to Jesus at night and learned about being born again. Later he helped bury Jesus.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Mary, Martha, and Lazarus",
+      "description": "Siblings from Bethany whom Jesus loved. Lazarus's raising from the dead was Jesus' greatest sign.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "John 1-12 Overview",
+      "youtubeId": "G-2e9mMf7E8",
+      "description": "The Bible Project explores the first half of John—Jesus revealed through signs.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "John 13-21 Overview",
+      "youtubeId": "RUfh_wOsauk",
+      "description": "The Bible Project completes John—the cross, resurrection, and eternal life.",
+      "audiences": ["all"]
+    }
+  ]
+}

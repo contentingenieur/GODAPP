@@ -1,0 +1,88 @@
+{
+  "overview": "Joshua records Israel's conquest and settlement of the Promised Land under Joshua's leadership. It demonstrates God's faithfulness in fulfilling His promises to Abraham and the importance of courageous obedience.",
+  "verses": [
+    {
+      "reference": "Joshua 1:9",
+      "text": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Joshua 24:15",
+      "text": "And if it is evil in your eyes to serve the LORD, choose this day whom you will serve... But as for me and my house, we will serve the LORD.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Joshua 21:45",
+      "text": "Not one word of all the good promises that the LORD had made to the house of Israel had failed; all came to pass.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Crossing the Jordan",
+      "reference": "Joshua 3-4",
+      "summary": "God miraculously parts the Jordan River at flood stage, allowing Israel to cross on dry ground into the Promised Land.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "The Fall of Jericho",
+      "reference": "Joshua 6",
+      "summary": "Israel conquers the fortified city by marching around it for seven days, then watching God collapse its walls—victory through faith, not military might.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Joshua's Farewell",
+      "reference": "Joshua 24",
+      "summary": "Joshua challenges Israel to choose whom they will serve, recounting God's faithfulness and calling for covenant renewal.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Archaeological evidence shows Jericho's walls fell outward, consistent with the biblical account and unusual for ancient siege warfare.",
+      "audiences": ["questions", "deeper"]
+    },
+    {
+      "text": "Joshua's Hebrew name (Yehoshua) is the same as Jesus' name—both mean 'The LORD saves.'",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Rahab, the Canaanite prostitute who helped the spies, became an ancestor of King David and Jesus (Matthew 1:5).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "The conquest took about seven years, followed by the division of land among the twelve tribes of Israel.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Joshua",
+      "description": "Moses' successor, a military leader filled with God's Spirit. His name means 'The LORD saves,' and he led Israel to possess the Promised Land.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Rahab",
+      "description": "A Canaanite prostitute who hid Israel's spies and demonstrated faith in Israel's God. She was spared and became part of Jesus' genealogy.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Caleb",
+      "description": "At 85, this faithful spy finally received his inheritance, conquering the giants in Hebron with the same faith he showed 45 years earlier.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "name": "Achan",
+      "description": "An Israelite whose secret sin of taking forbidden plunder caused Israel's defeat at Ai, showing that hidden sin affects the whole community.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Joshua Overview",
+      "youtubeId": "JqOqJlFF_eU",
+      "description": "The Bible Project's visual overview of how God fulfilled His promise to give Israel the land.",
+      "audiences": ["all"]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "overview": "Isaiah is the most quoted Old Testament book in the New Testament, containing stunning prophecies of the Messiah. It moves from judgment to comfort, from exile to restoration, pointing to Jesus throughout.",
+  "verses": [
+    {
+      "reference": "Isaiah 53:5",
+      "text": "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Isaiah 40:31",
+      "text": "But they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Isaiah 9:6",
+      "text": "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Isaiah 6:8",
+      "text": "And I heard the voice of the Lord saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here I am! Send me.'",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Isaiah's Commission",
+      "reference": "Isaiah 6",
+      "summary": "Isaiah sees God's glory in the temple, confesses his unworthiness, is cleansed, and volunteers for God's mission.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Suffering Servant",
+      "reference": "Isaiah 52:13-53:12",
+      "summary": "The most detailed prophecy of Christ's atoning death, describing the Servant who bears our sins and makes many righteous.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Comfort for God's People",
+      "reference": "Isaiah 40:1-11",
+      "summary": "After chapters of judgment, God's message shifts to comfort, promising a voice in the wilderness preparing the Lord's way.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Isaiah 53 is so precisely fulfilled in Jesus that some call Isaiah 'the fifth gospel.'",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The Dead Sea Scrolls included a complete Isaiah scroll, remarkably matching our text from over 2,000 years ago.",
+      "audiences": ["questions", "deeper"]
+    },
+    {
+      "text": "Isaiah prophesied about 700 years before Christ, naming the Persian king Cyrus by name 150 years before his birth (Isaiah 44:28).",
+      "audiences": ["exploring", "questions"]
+    },
+    {
+      "text": "Isaiah was married to a prophetess and had two sons with symbolic names: Shear-jashub ('a remnant shall return') and Maher-shalal-hash-baz ('swift is the plunder').",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Isaiah",
+      "description": "A prophet to Judah for over 40 years, advising kings and proclaiming both judgment and hope. Tradition says he was martyred by being sawn in half.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "The Suffering Servant",
+      "description": "The mysterious figure in Isaiah's prophecies who would bear sins, be rejected, and bring salvation—fulfilled in Jesus Christ.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "King Hezekiah",
+      "description": "A good king who trusted Isaiah's counsel and saw God's miraculous deliverance from Assyria.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Isaiah 1-39 Overview",
+      "youtubeId": "d0A6Uchb1F8",
+      "description": "The Bible Project explores the first half of Isaiah—judgment and the coming King.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Isaiah 40-66 Overview",
+      "youtubeId": "qV5e6lEMhYg",
+      "description": "The Bible Project explores the second half—comfort, the Servant, and new creation.",
+      "audiences": ["all"]
+    }
+  ]
+}

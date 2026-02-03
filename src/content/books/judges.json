@@ -1,0 +1,88 @@
+{
+  "overview": "Judges depicts Israel's repeated cycle of sin, oppression, crying out, and deliverance during the period between Joshua and the monarchy. The refrain 'everyone did what was right in his own eyes' captures the spiritual chaos.",
+  "verses": [
+    {
+      "reference": "Judges 21:25",
+      "text": "In those days there was no king in Israel. Everyone did what was right in his own eyes.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Judges 2:16",
+      "text": "Then the LORD raised up judges, who saved them out of the hand of those who plundered them.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Judges 6:12",
+      "text": "And the angel of the LORD appeared to him and said to him, 'The LORD is with you, O mighty man of valor.'",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Cycle of Judges",
+      "reference": "Judges 2:11-19",
+      "summary": "Israel's repeating pattern: they forget God, serve idols, face oppression, cry out, and God sends a deliverer. Yet they never fully learn.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Gideon's Victory",
+      "reference": "Judges 7",
+      "summary": "God reduces Gideon's army from 32,000 to 300 men, then defeats the Midianites with trumpets and torches—demonstrating that victory comes from God alone.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "Samson's Story",
+      "reference": "Judges 13-16",
+      "summary": "Israel's strongest judge, whose great physical strength was matched by great moral weakness. His final act destroyed more enemies than his entire life.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The judges were not legal officials but military deliverers raised up by God during national crises.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Deborah is the only female judge mentioned, a prophetess who led Israel to victory over Canaanite forces.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "The period of judges lasted approximately 350 years, from Joshua's death to the rise of Samuel.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The book progressively shows Israel's moral decline, ending with civil war and near-extinction of the tribe of Benjamin.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Deborah",
+      "description": "A prophetess and the only female judge who led Israel. She summoned Barak to battle and prophesied victory over Sisera's army.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Gideon",
+      "description": "A fearful farmer whom God called 'mighty warrior.' With only 300 men, he defeated the Midianite army through God's power.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Samson",
+      "description": "A Nazirite with supernatural strength who judged Israel for 20 years. His weakness for women led to his downfall, but his death accomplished his greatest victory.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Jephthah",
+      "description": "An outcast who became a judge and made a rash vow with tragic consequences, showing the spiritual confusion of the era.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Judges Overview",
+      "youtubeId": "kOYy8iCfIJ4",
+      "description": "The Bible Project explores the downward spiral of Israel during the time of the judges.",
+      "audiences": ["all"]
+    }
+  ]
+}

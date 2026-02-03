@@ -1,0 +1,68 @@
+{
+  "overview": "1 Timothy is Paul's pastoral instruction to his young protégé leading the church in Ephesus. It covers church leadership, sound doctrine, and conduct for various groups within the congregation.",
+  "verses": [
+    {
+      "reference": "1 Timothy 4:12",
+      "text": "Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Timothy 6:10",
+      "text": "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "1 Timothy 2:5",
+      "text": "For there is one God, and there is one mediator between God and men, the man Christ Jesus.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Qualifications for Overseers",
+      "reference": "1 Timothy 3:1-13",
+      "summary": "Paul lists character qualities for church leaders—overseers and deacons—emphasizing integrity and family life.",
+      "audiences": ["new-faith", "deeper"]
+    },
+    {
+      "title": "Fight the Good Fight",
+      "reference": "1 Timothy 6:11-16",
+      "summary": "Paul charges Timothy to pursue godliness, fight the good fight, and keep the faith until Christ's appearing.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "1 Timothy, 2 Timothy, and Titus are called the 'Pastoral Epistles' because they address pastoral leadership.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The saying 'money is the root of all evil' is a misquotation—Paul says the 'love of money' is the root.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Timothy was from Lystra, his mother Eunice and grandmother Lois were believers who taught him Scripture from childhood.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The aging apostle passing on leadership wisdom to the next generation of church leaders.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Timothy",
+      "description": "Paul's 'true child in the faith,' a young pastor needing encouragement to lead boldly despite his youth.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Timothy Overview",
+      "youtubeId": "7RoqnGcEjcs",
+      "description": "The Bible Project explores Paul's pastoral guidance for Timothy.",
+      "audiences": ["all"]
+    }
+  ]
+}

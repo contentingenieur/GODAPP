@@ -1,0 +1,73 @@
+{
+  "overview": "Galatians defends the gospel of grace against those adding Jewish law requirements. Paul argues passionately that we are justified by faith alone, not by works of the law, and calls believers to freedom in Christ.",
+  "verses": [
+    {
+      "reference": "Galatians 2:20",
+      "text": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Galatians 5:22-23",
+      "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Galatians 5:1",
+      "text": "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Galatians 3:28",
+      "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Justification by Faith Alone",
+      "reference": "Galatians 2:15-21",
+      "summary": "No one is justified by works of the law but only through faith in Jesus Christ—the heart of Paul's gospel.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Fruit of the Spirit",
+      "reference": "Galatians 5:16-26",
+      "summary": "Walking by the Spirit produces character traits like love, joy, and peace—contrasted with the works of the flesh.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Galatians is sometimes called 'Luther's book' because it was central to his doctrine of justification by faith alone.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Paul wrote Galatians with unusual urgency and emotion—no warm greetings, just straight into rebuke.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The 'fruit of the Spirit' is singular—one fruit with nine aspects, produced by the Spirit's work in believers.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle defending the gospel he received directly from Christ, against those corrupting it with legal requirements.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Peter (Cephas)",
+      "description": "Even Peter was publicly corrected by Paul for withdrawing from Gentile fellowship under pressure from Jewish Christians.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Galatians Overview",
+      "youtubeId": "vmx4UjRFp0M",
+      "description": "The Bible Project explores Paul's passionate defense of the gospel of grace.",
+      "audiences": ["all"]
+    }
+  ]
+}

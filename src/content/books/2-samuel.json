@@ -1,0 +1,88 @@
+{
+  "overview": "2 Samuel covers David's reign as king of Israel—his triumphs, his devastating sin with Bathsheba, and its consequences. It contains God's covenant promise that David's throne would endure forever.",
+  "verses": [
+    {
+      "reference": "2 Samuel 7:16",
+      "text": "And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever.",
+      "audiences": ["deeper"]
+    },
+    {
+      "reference": "2 Samuel 22:2-3",
+      "text": "The LORD is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold and my refuge, my savior.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "2 Samuel 12:13",
+      "text": "David said to Nathan, 'I have sinned against the LORD.' And Nathan said to David, 'The LORD also has put away your sin; you shall not die.'",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Davidic Covenant",
+      "reference": "2 Samuel 7",
+      "summary": "God promises David an eternal dynasty—fulfilled ultimately in Jesus, the Son of David who reigns forever.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "David and Bathsheba",
+      "reference": "2 Samuel 11-12",
+      "summary": "David's adultery and murder, Nathan's confrontation, and David's repentance. Even forgiven sin brings lasting consequences.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Absalom's Rebellion",
+      "reference": "2 Samuel 15-18",
+      "summary": "David's son attempts to seize the throne, forcing David to flee. Despite everything, David grieves deeply when Absalom dies.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The Davidic covenant (2 Samuel 7) is foundational to understanding Jesus as the promised Messiah, the eternal King from David's line.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "David's sin with Bathsheba led to the death of four of his sons, fulfilling Nathan's prophecy that 'the sword shall never depart from your house.'",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Jerusalem became Israel's capital when David captured it from the Jebusites—it's called the 'City of David' to this day.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Psalm 51, David's famous confession of sin, was written after Nathan confronted him about Bathsheba.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "David",
+      "description": "Israel's greatest king, a man after God's own heart despite serious failures. God made an everlasting covenant with him fulfilled in Christ.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Bathsheba",
+      "description": "Wife of Uriah, taken by David in his great sin. She later became Solomon's mother and an ancestor of Jesus.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Nathan",
+      "description": "A prophet who courageously confronted David about his sin and later supported Solomon's succession to the throne.",
+      "audiences": ["new-faith", "deeper"]
+    },
+    {
+      "name": "Absalom",
+      "description": "David's handsome, ambitious son who led a rebellion against his father, representing the consequences of David's earlier sins.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "2 Samuel Overview",
+      "youtubeId": "YvoWDXNDJgs",
+      "description": "The Bible Project explores David's reign, his covenant, and the consequences of his choices.",
+      "audiences": ["all"]
+    }
+  ]
+}

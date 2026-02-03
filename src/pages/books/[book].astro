@@ -1,0 +1,272 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import BookNav from '../../components/BookNav.astro';
+import AudienceFilter from '../../components/AudienceFilter.astro';
+import VerseCard from '../../components/VerseCard.astro';
+import PassageCard from '../../components/PassageCard.astro';
+import FactCard from '../../components/FactCard.astro';
+import FigureCard from '../../components/FigureCard.astro';
+import VideoEmbed from '../../components/VideoEmbed.astro';
+import BookNavigation from '../../components/BookNavigation.astro';
+import books from '../../data/books.json';
+
+export async function getStaticPaths() {
+  const bookModules = import.meta.glob('../../content/books/*.json');
+
+  return books.map(book => ({
+    params: { book: book.slug },
+    props: { bookInfo: book }
+  }));
+}
+
+const { book } = Astro.params;
+const { bookInfo } = Astro.props;
+
+// Try to load book content
+let content = null;
+try {
+  const contentModule = await import(`../../content/books/${book}.json`);
+  content = contentModule.default;
+} catch (e) {
+  // Content file doesn't exist yet
+}
+
+const sectionNames: Record<string, string> = {
+  'pentateuch': 'Pentateuch',
+  'historical-ot': 'Historical Books',
+  'wisdom': 'Wisdom Literature',
+  'major-prophets': 'Major Prophets',
+  'minor-prophets': 'Minor Prophets',
+  'gospels': 'Gospels',
+  'history-nt': 'History',
+  'pauline': 'Pauline Epistles',
+  'general-epistles': 'General Epistles',
+  'apocalyptic': 'Apocalyptic'
+};
+---
+
+<BaseLayout title={bookInfo.name} description={`Study the book of ${bookInfo.name} - famous verses, key figures, and interesting facts`}>
+  <Header currentBook={book} />
+  <BookNav currentBook={book} />
+
+  <main class="book-page">
+    <div class="container">
+      <header class="book-header">
+        <div class="book-meta">
+          <span class={`testament-badge ${bookInfo.testament}`}>
+            {bookInfo.testament === 'old' ? 'Old Testament' : 'New Testament'}
+          </span>
+          <span class="section-name">{sectionNames[bookInfo.section]}</span>
+        </div>
+        <h1>{bookInfo.name}</h1>
+        <p class="book-stats">{bookInfo.chapters} chapters</p>
+        {content?.overview && (
+          <p class="book-overview">{content.overview}</p>
+        )}
+      </header>
+
+      <AudienceFilter />
+
+      {content ? (
+        <div class="book-content">
+          {/* Famous Verses Section */}
+          {content.verses && content.verses.length > 0 && (
+            <section class="section">
+              <h2 class="section-title">Famous Verses</h2>
+              <div class="content-grid">
+                {content.verses.map((verse: any) => (
+                  <VerseCard
+                    reference={verse.reference}
+                    text={verse.text}
+                    audiences={verse.audiences}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Famous Passages Section */}
+          {content.passages && content.passages.length > 0 && (
+            <section class="section">
+              <h2 class="section-title">Famous Passages</h2>
+              <div class="content-grid">
+                {content.passages.map((passage: any) => (
+                  <PassageCard
+                    title={passage.title}
+                    reference={passage.reference}
+                    summary={passage.summary}
+                    audiences={passage.audiences}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Interesting Facts Section */}
+          {content.facts && content.facts.length > 0 && (
+            <section class="section">
+              <h2 class="section-title">Interesting Facts</h2>
+              <div class="content-grid facts-grid">
+                {content.facts.map((fact: any) => (
+                  <FactCard
+                    fact={fact.text}
+                    audiences={fact.audiences}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Key Figures Section */}
+          {content.figures && content.figures.length > 0 && (
+            <section class="section">
+              <h2 class="section-title">Key Figures</h2>
+              <div class="content-grid figures-grid">
+                {content.figures.map((figure: any) => (
+                  <FigureCard
+                    name={figure.name}
+                    description={figure.description}
+                    audiences={figure.audiences}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Videos Section */}
+          {content.videos && content.videos.length > 0 && (
+            <section class="section">
+              <h2 class="section-title">Videos</h2>
+              <div class="content-grid videos-grid">
+                {content.videos.map((video: any) => (
+                  <VideoEmbed
+                    title={video.title}
+                    youtubeId={video.youtubeId}
+                    description={video.description}
+                    audiences={video.audiences}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
+        </div>
+      ) : (
+        <div class="no-content card">
+          <h3>Content Coming Soon</h3>
+          <p>We're still working on adding content for {bookInfo.name}. Check back soon!</p>
+        </div>
+      )}
+
+      <BookNavigation currentSlug={book!} />
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .book-page {
+    flex: 1;
+    padding: var(--space-8) 0;
+  }
+
+  .book-header {
+    margin-bottom: var(--space-8);
+  }
+
+  .book-meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-3);
+  }
+
+  .testament-badge {
+    display: inline-block;
+    padding: var(--space-1) var(--space-3);
+    font-size: var(--text-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: var(--radius-sm);
+  }
+
+  .testament-badge.old {
+    background-color: rgba(139, 115, 85, 0.15);
+    color: var(--color-secondary);
+  }
+
+  .testament-badge.new {
+    background-color: rgba(107, 123, 110, 0.15);
+    color: var(--color-accent);
+  }
+
+  .section-name {
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+
+  .book-header h1 {
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-2);
+  }
+
+  .book-stats {
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+    margin-bottom: var(--space-4);
+  }
+
+  .book-overview {
+    font-size: var(--text-lg);
+    color: var(--color-text);
+    line-height: 1.7;
+    max-width: var(--content-width);
+  }
+
+  .content-grid {
+    display: grid;
+    gap: var(--space-4);
+  }
+
+  .facts-grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+  .figures-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  }
+
+  .videos-grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+  .no-content {
+    text-align: center;
+    padding: var(--space-12);
+  }
+
+  .no-content h3 {
+    margin-bottom: var(--space-3);
+  }
+
+  .no-content p {
+    color: var(--color-text-light);
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .book-page {
+      padding: var(--space-6) 0;
+    }
+
+    .book-header h1 {
+      font-size: var(--text-3xl);
+    }
+
+    .facts-grid,
+    .figures-grid,
+    .videos-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

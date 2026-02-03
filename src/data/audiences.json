@@ -1,0 +1,22 @@
+[
+  {
+    "id": "exploring",
+    "name": "Exploring Faith",
+    "description": "For those curious about Christianity and exploring what the Bible teaches"
+  },
+  {
+    "id": "questions",
+    "name": "Honest Questions",
+    "description": "For skeptics and those with doubts seeking thoughtful answers"
+  },
+  {
+    "id": "new-faith",
+    "name": "New to Faith",
+    "description": "For recent Christians building their foundation"
+  },
+  {
+    "id": "deeper",
+    "name": "Going Deeper",
+    "description": "For mature Christians seeking deeper study and understanding"
+  }
+]

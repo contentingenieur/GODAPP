@@ -1,0 +1,57 @@
+{
+  "overview": "Amos was a shepherd called to confront Israel's social injustice and empty religion. His message insists that true worship produces justice for the poor and oppressed.",
+  "verses": [
+    {
+      "reference": "Amos 5:24",
+      "text": "But let justice roll down like waters, and righteousness like an ever-flowing stream.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Amos 5:14",
+      "text": "Seek good, and not evil, that you may live; and so the LORD, the God of hosts, will be with you, as you have said.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Amos 3:7",
+      "text": "For the Lord GOD does nothing without revealing his secret to his servants the prophets.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Justice and Worship",
+      "reference": "Amos 5:21-24",
+      "summary": "God rejects Israel's festivals and songs because they're accompanied by injustice. He demands righteousness as the fruit of true worship.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Amos 5:24 was a favorite verse of Dr. Martin Luther King Jr., who quoted it in his 'I Have a Dream' speech.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Amos was neither a professional prophet nor a prophet's son—just a shepherd and farmer whom God called.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Though Amos was from Judah (south), God sent him to prophesy against Israel (north) during its prosperous years.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Amos",
+      "description": "A shepherd from Tekoa who was called to deliver God's message of justice to a complacent, prosperous Israel.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Amos Overview",
+      "youtubeId": "mGgWaPGpGz4",
+      "description": "The Bible Project explores Amos's call for justice to flow like a river.",
+      "audiences": ["all"]
+    }
+  ]
+}

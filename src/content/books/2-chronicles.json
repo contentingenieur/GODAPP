@@ -1,0 +1,82 @@
+{
+  "overview": "2 Chronicles covers Solomon's reign through the Babylonian exile, focusing on Judah's kings and the temple. It ends hopefully with Cyrus's decree allowing the exiles to return and rebuild.",
+  "verses": [
+    {
+      "reference": "2 Chronicles 7:14",
+      "text": "If my people who are called by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "2 Chronicles 16:9",
+      "text": "For the eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "2 Chronicles 20:15",
+      "text": "Thus says the LORD to you, 'Do not be afraid and do not be dismayed at this great horde, for the battle is not yours but God's.'",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Solomon's Temple Dedication",
+      "reference": "2 Chronicles 5-7",
+      "summary": "God's glory fills the temple so powerfully the priests cannot stand to minister. God promises to hear prayers offered toward this place.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Jehoshaphat's Victory",
+      "reference": "2 Chronicles 20",
+      "summary": "When surrounded by enemies, Judah fasts and prays. God tells them the battle is His, and they win by sending worshipers ahead of the army.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "2 Chronicles 7:14 is one of the most quoted Old Testament verses about national repentance and spiritual revival.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The book evaluates each king primarily by their faithfulness to proper temple worship, not political success.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Chronicles ends with the same words that begin Ezra, suggesting they were originally one continuous work.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Even at the end, despite exile, there's hope—Cyrus decrees that God's temple should be rebuilt.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Solomon",
+      "description": "Builder of the temple in all its glory. His dedication prayer shows deep understanding of God's nature and human need.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Jehoshaphat",
+      "description": "A good king who sought God and won battles through worship, though his alliances with Israel's wicked kings brought trouble.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "name": "Hezekiah",
+      "description": "Led one of Judah's greatest revivals, reopening and cleansing the temple and restoring Passover observance.",
+      "audiences": ["deeper"]
+    },
+    {
+      "name": "Josiah",
+      "description": "Became king at age 8 and led sweeping reforms after rediscovering the Book of the Law in the neglected temple.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "2 Chronicles Overview",
+      "youtubeId": "HR7xaHv3Ias",
+      "description": "The Bible Project completes the Chronicles narrative, ending with hope for restoration.",
+      "audiences": ["all"]
+    }
+  ]
+}

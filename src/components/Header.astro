@@ -1,0 +1,123 @@
+---
+interface Props {
+  currentBook?: string;
+}
+
+const { currentBook } = Astro.props;
+---
+
+<header class="header">
+  <div class="header-container">
+    <a href="/" class="logo">
+      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="4" y="2" width="24" height="28" rx="2" stroke="currentColor" stroke-width="2"/>
+        <line x1="10" y1="2" x2="10" y2="30" stroke="currentColor" stroke-width="2"/>
+        <line x1="14" y1="8" x2="24" y2="8" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="14" y1="12" x2="24" y2="12" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="14" y1="16" x2="24" y2="16" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="14" y1="20" x2="20" y2="20" stroke="currentColor" stroke-width="1.5"/>
+      </svg>
+      <span class="logo-text">Bible Study</span>
+    </a>
+
+    <nav class="nav">
+      <a href="/" class="nav-link" class:list={[{ active: !currentBook }]}>
+        All Books
+      </a>
+      <button class="nav-toggle" id="bookNavToggle" aria-label="Toggle book navigation">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--color-surface);
+    border-bottom: 1px solid var(--color-border-light);
+    padding: var(--space-3) 0;
+  }
+
+  .header-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 var(--space-4);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    color: var(--color-accent);
+    font-family: var(--font-heading);
+    font-size: var(--text-xl);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .logo:hover {
+    color: var(--color-accent-hover);
+    text-decoration: none;
+  }
+
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+  }
+
+  .nav-link {
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-text-light);
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-fast);
+  }
+
+  .nav-link:hover,
+  .nav-link.active {
+    color: var(--color-accent);
+    background-color: rgba(107, 123, 110, 0.1);
+    text-decoration: none;
+  }
+
+  .nav-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--color-text);
+    padding: var(--space-2);
+    cursor: pointer;
+    border-radius: var(--radius-md);
+    transition: background-color var(--transition-fast);
+  }
+
+  .nav-toggle:hover {
+    background-color: var(--color-border-light);
+  }
+
+  @media (max-width: 768px) {
+    .nav-link {
+      display: none;
+    }
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .logo-text {
+      font-size: var(--text-lg);
+    }
+  }
+</style>

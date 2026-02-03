@@ -1,0 +1,82 @@
+{
+  "overview": "Proverbs is a collection of wisdom for everyday life, teaching how to live skillfully before God and others. It covers everything from money to relationships, work to speech, offering practical guidance for the wise.",
+  "verses": [
+    {
+      "reference": "Proverbs 3:5-6",
+      "text": "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Proverbs 9:10",
+      "text": "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Proverbs 22:6",
+      "text": "Train up a child in the way he should go; even when he is old he will not depart from it.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "reference": "Proverbs 27:17",
+      "text": "Iron sharpens iron, and one man sharpens another.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Proverbs 16:9",
+      "text": "The heart of man plans his way, but the LORD establishes his steps.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Wisdom's Call",
+      "reference": "Proverbs 1:20-33",
+      "summary": "Wisdom is personified as a woman calling out in the streets, warning of the consequences of ignoring her invitation.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "title": "The Excellent Wife",
+      "reference": "Proverbs 31:10-31",
+      "summary": "A famous acrostic poem describing a woman of noble character—hardworking, generous, wise, and fearing the LORD.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Proverbs are general principles, not absolute promises. They describe how life typically works when lived wisely.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Solomon wrote most of Proverbs and is said to have spoken 3,000 proverbs (1 Kings 4:32)—this book contains just a selection.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The 'fear of the LORD' appears over a dozen times in Proverbs as the foundation of all true wisdom.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Chapters 30-31 were written by Agur and King Lemuel, showing wisdom isn't limited to Israelite authors.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Solomon",
+      "description": "Israel's wisest king, who asked God for wisdom and received it abundantly. Most of Proverbs comes from his pen.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Lady Wisdom",
+      "description": "Personified wisdom calling people to follow her ways, contrasted with the seductive 'woman of folly.'",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Proverbs Overview",
+      "youtubeId": "AzmYV8GNAIM",
+      "description": "The Bible Project explores how Proverbs teaches wisdom for skillful living.",
+      "audiences": ["all"]
+    }
+  ]
+}

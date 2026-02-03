@@ -1,0 +1,78 @@
+{
+  "overview": "2 Timothy is Paul's final letter, written facing execution. He urges Timothy to guard the gospel, endure suffering, and preach the word. It's a poignant farewell and charge to the next generation.",
+  "verses": [
+    {
+      "reference": "2 Timothy 3:16-17",
+      "text": "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "2 Timothy 4:7-8",
+      "text": "I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "2 Timothy 1:7",
+      "text": "For God gave us a spirit not of fear but of power and love and self-control.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "2 Timothy 2:15",
+      "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Paul's Farewell",
+      "reference": "2 Timothy 4:6-8",
+      "summary": "Paul knows his death is near but faces it with confidence—he has finished the race and a crown awaits him.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Preach the Word",
+      "reference": "2 Timothy 4:1-5",
+      "summary": "Paul's urgent charge to Timothy: preach the word in season and out, endure suffering, fulfill your ministry.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "2 Timothy 3:16 is the key verse on Scripture's inspiration—'breathed out by God' (theopneustos).",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Paul wrote this from a Roman prison, likely a cold dungeon, asking Timothy to bring his cloak and books.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Tradition says Paul was beheaded under Emperor Nero shortly after writing this letter, around AD 67.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle facing death, passing the torch to Timothy with no regrets—he has fought, finished, and kept the faith.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Timothy",
+      "description": "Paul's beloved son in the faith, charged to continue the work and guard the gospel for future generations.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Luke",
+      "description": "The only companion still with Paul at the end—'Only Luke is with me' (4:11).",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "2 Timothy Overview",
+      "youtubeId": "urlvnxCaL00",
+      "description": "The Bible Project explores Paul's final words and charge to Timothy.",
+      "audiences": ["all"]
+    }
+  ]
+}

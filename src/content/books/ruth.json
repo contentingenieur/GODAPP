@@ -1,0 +1,72 @@
+{
+  "overview": "Ruth is a beautiful story of loyalty, redemption, and providence set during the dark period of judges. A Moabite widow's faithfulness leads her into the lineage of David and ultimately Jesus.",
+  "verses": [
+    {
+      "reference": "Ruth 1:16",
+      "text": "But Ruth said, 'Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ruth 2:12",
+      "text": "The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Ruth's Commitment",
+      "reference": "Ruth 1:6-18",
+      "summary": "After losing her husband, Ruth refuses to leave her mother-in-law Naomi, pledging loyalty to her and to Israel's God.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Boaz the Redeemer",
+      "reference": "Ruth 4:1-12",
+      "summary": "Boaz acts as kinsman-redeemer, purchasing Naomi's land and marrying Ruth—a beautiful picture of Christ's redemption of His people.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Ruth, a Moabite, is one of only five women mentioned in Jesus' genealogy in Matthew 1.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The book is read annually during the Jewish festival of Shavuot (Pentecost) because the story takes place during harvest.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Boaz as 'kinsman-redeemer' illustrates the concept of redemption—buying back what was lost—central to understanding Christ's work.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "text": "Ruth is the great-grandmother of King David, making her part of the royal and messianic line.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Ruth",
+      "description": "A Moabite widow whose extraordinary loyalty and faith led her to leave everything for Israel's God. She became an ancestor of David and Jesus.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Naomi",
+      "description": "Ruth's mother-in-law, whose bitterness turned to joy through God's providence. Her name means 'pleasant,' though she called herself 'Mara' (bitter) after her losses.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Boaz",
+      "description": "A wealthy, honorable man who showed kindness to Ruth and became her kinsman-redeemer, a type of Christ who redeems His people.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ruth Overview",
+      "youtubeId": "0h1eoBeR4Jk",
+      "description": "The Bible Project's visual overview of this beautiful story of loyalty, redemption, and God's providence.",
+      "audiences": ["all"]
+    }
+  ]
+}

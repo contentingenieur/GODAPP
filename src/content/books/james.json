@@ -1,0 +1,77 @@
+{
+  "overview": "James is practical wisdom for Christian living. Faith must show itself in works—controlling speech, caring for the poor, resisting favoritism, and patient endurance. It's Christianity with sleeves rolled up.",
+  "verses": [
+    {
+      "reference": "James 1:2-3",
+      "text": "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "James 2:17",
+      "text": "So also faith by itself, if it does not have works, is dead.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "James 1:19",
+      "text": "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "James 4:8",
+      "text": "Draw near to God, and he will draw near to you.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "James 5:16",
+      "text": "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Faith and Works",
+      "reference": "James 2:14-26",
+      "summary": "Faith without works is dead—genuine faith shows itself in action. Abraham and Rahab are examples.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Taming the Tongue",
+      "reference": "James 3:1-12",
+      "summary": "The tongue is a small member but causes great harm. No one can tame it, yet it must be controlled.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "James was Jesus' brother who became leader of the Jerusalem church, though he hadn't believed during Jesus' ministry.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Martin Luther called James an 'epistle of straw' because it seemed to contradict Paul on faith and works. Most see them as complementary.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "James is the most practical book in the New Testament—nearly every verse is a command or instruction.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The book reads like Old Testament wisdom literature, especially Proverbs, applied to Christian living.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "James",
+      "description": "Jesus' half-brother who became a pillar of the Jerusalem church, known for his godliness and practical wisdom.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "James Overview",
+      "youtubeId": "qn-hLHWwRYY",
+      "description": "The Bible Project explores how genuine faith shows itself in how we live.",
+      "audiences": ["all"]
+    }
+  ]
+}

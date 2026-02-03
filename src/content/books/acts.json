@@ -1,0 +1,99 @@
+{
+  "overview": "Acts records the birth and spread of the early church, from Jerusalem to Rome. Empowered by the Holy Spirit at Pentecost, the apostles carry the gospel across the Roman world despite opposition.",
+  "verses": [
+    {
+      "reference": "Acts 1:8",
+      "text": "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Acts 4:12",
+      "text": "And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Acts 2:42",
+      "text": "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "reference": "Acts 17:11",
+      "text": "Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.",
+      "audiences": ["exploring", "deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Day of Pentecost",
+      "reference": "Acts 2",
+      "summary": "The Holy Spirit comes in power, the disciples speak in tongues, Peter preaches, and 3,000 people believe and are baptized.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Conversion of Saul",
+      "reference": "Acts 9:1-19",
+      "summary": "The church's fiercest persecutor encounters the risen Jesus on the Damascus road and becomes its greatest missionary.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Jerusalem Council",
+      "reference": "Acts 15",
+      "summary": "The church decides that Gentiles don't need to become Jews to follow Jesus—a crucial moment for the global mission.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Acts 1:8 provides the outline for the whole book: Jerusalem (1-7), Judea and Samaria (8-12), ends of the earth (13-28).",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Luke wrote both Luke and Acts as a two-volume work, together comprising about 28% of the New Testament.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The book ends abruptly with Paul in Rome—perhaps because that's when Luke finished writing, or to show the mission continues.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "'The Way' was an early name for Christianity before 'Christian' was coined in Antioch (Acts 11:26).",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Peter",
+      "description": "The apostle who preached at Pentecost and led the early Jerusalem church, opening the door to Gentiles through Cornelius.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Paul (Saul)",
+      "description": "A Pharisee turned apostle who planted churches across the Roman Empire and wrote much of the New Testament.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Stephen",
+      "description": "The first Christian martyr, whose death scattered believers and indirectly led to the gospel spreading beyond Jerusalem.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Barnabas",
+      "description": "The 'son of encouragement' who vouched for Paul and partnered in early mission work before going separate ways.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Acts 1-12 Overview",
+      "youtubeId": "CGbNw855ksw",
+      "description": "The Bible Project explores the first half of Acts—the Spirit-empowered church in Jerusalem.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Acts 13-28 Overview",
+      "youtubeId": "Z-17KxpjL0Q",
+      "description": "The Bible Project completes Acts—Paul's missions and the gospel reaching Rome.",
+      "audiences": ["all"]
+    }
+  ]
+}

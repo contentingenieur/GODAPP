@@ -1,0 +1,61 @@
+{
+  "overview": "Lamentations is a collection of five poems mourning Jerusalem's destruction by Babylon. Through tears, it affirms God's faithfulness and calls the people to return to Him.",
+  "verses": [
+    {
+      "reference": "Lamentations 3:22-23",
+      "text": "The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Lamentations 3:25-26",
+      "text": "The LORD is good to those who wait for him, to the soul who seeks him. It is good that one should wait quietly for the salvation of the LORD.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Lamentations 3:40",
+      "text": "Let us test and examine our ways, and return to the LORD!",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Hope in the Midst of Grief",
+      "reference": "Lamentations 3:19-33",
+      "summary": "At the book's center, amid overwhelming grief, the author remembers God's faithfulness and finds hope.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The first four chapters are acrostic poems, each verse beginning with successive letters of the Hebrew alphabet.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Tradition attributes Lamentations to Jeremiah, who witnessed Jerusalem's fall and prophesied it for decades.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Jews read Lamentations annually on Tisha B'Av, a fast day commemorating the temple's destruction.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "text": "The hymn 'Great Is Thy Faithfulness' is based on Lamentations 3:22-23, finding hope in tragedy.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jeremiah (traditional)",
+      "description": "The weeping prophet who witnessed what he had warned about for 40 years—Jerusalem's destruction and the temple's burning.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Lamentations Overview",
+      "youtubeId": "p8GDFPdaQZQ",
+      "description": "The Bible Project explores this beautiful book of grief that still finds hope in God.",
+      "audiences": ["all"]
+    }
+  ]
+}

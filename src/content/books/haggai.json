@@ -1,0 +1,57 @@
+{
+  "overview": "Haggai urged the returned exiles to rebuild the temple they had neglected. His message: prioritize God's house, and He will bless. The book shows how small beginnings can have great endings.",
+  "verses": [
+    {
+      "reference": "Haggai 2:9",
+      "text": "The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Haggai 1:5-6",
+      "text": "Now, therefore, thus says the LORD of hosts: Consider your ways. You have sown much, and harvested little. You eat, but you never have enough; you drink, but you never have your fill.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Consider Your Ways",
+      "reference": "Haggai 1:2-11",
+      "summary": "The people say it's not time to rebuild, but God shows their priorities are backward—they have nice houses while His lies in ruins.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Haggai's ministry lasted only about four months in 520 BC, but it motivated the people to complete the temple.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The rebuilt temple, though modest, would eventually be greatly expanded by Herod and become the temple Jesus visited.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Haggai is one of only two prophets (with Zechariah) whose ministry was successful in their lifetime, achieving their goal.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Haggai",
+      "description": "A prophet whose focused, short ministry resulted in the temple's completion after 16 years of neglect.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Zerubbabel",
+      "description": "The governor who led the temple rebuilding, encouraged by Haggai. He was in Jesus' genealogy.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Haggai Overview",
+      "youtubeId": "juPvv_xcX-U",
+      "description": "The Bible Project explores Haggai's call to prioritize God's house.",
+      "audiences": ["all"]
+    }
+  ]
+}

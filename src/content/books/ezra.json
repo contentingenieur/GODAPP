@@ -1,0 +1,72 @@
+{
+  "overview": "Ezra records the return of Jewish exiles from Babylon and the rebuilding of the temple. It shows God's faithfulness in fulfilling His promise to restore His people after 70 years of exile.",
+  "verses": [
+    {
+      "reference": "Ezra 7:10",
+      "text": "For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ezra 3:11",
+      "text": "And they sang responsively, praising and giving thanks to the LORD, 'For he is good, for his steadfast love endures forever toward Israel.'",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Foundation Laid",
+      "reference": "Ezra 3",
+      "summary": "The returned exiles lay the temple's foundation amid weeping and shouting—elders grieving it's smaller than Solomon's, others celebrating the restoration.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Ezra's Prayer of Confession",
+      "reference": "Ezra 9",
+      "summary": "Ezra discovers widespread intermarriage with pagans and leads the people in corporate confession and repentance.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The exile lasted exactly 70 years (586-516 BC) as Jeremiah prophesied, demonstrating God's precise faithfulness.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "About 50,000 Jews returned in the first wave under Zerubbabel, a small fraction of the millions who had been exiled.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Ezra was both a priest and a scribe, credited with helping preserve and teach the Scriptures to post-exilic Israel.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The Persian king Cyrus funded the temple rebuilding—an enemy king supporting God's work, as prophesied in Isaiah 44:28.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Ezra",
+      "description": "A priest and skilled scribe who led the second wave of returning exiles and taught the people God's Law with devoted commitment.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Zerubbabel",
+      "description": "A descendant of David who led the first wave of returning exiles and oversaw the temple's reconstruction.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "name": "Cyrus",
+      "description": "The Persian king who conquered Babylon and decreed that the Jews could return home and rebuild their temple.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ezra-Nehemiah Overview",
+      "youtubeId": "MkETkRv9tG8",
+      "description": "The Bible Project explores the return from exile and the rebuilding of Jerusalem.",
+      "audiences": ["all"]
+    }
+  ]
+}

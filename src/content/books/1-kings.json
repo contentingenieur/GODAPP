@@ -1,0 +1,88 @@
+{
+  "overview": "1 Kings begins with Solomon's glorious reign and the temple's construction, then traces the kingdom's division and decline. It shows how unfaithfulness to God leads to national disaster.",
+  "verses": [
+    {
+      "reference": "1 Kings 3:9",
+      "text": "Give your servant therefore an understanding mind to govern your people, that I may discern between good and evil, for who is able to govern this your great people?",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Kings 8:27",
+      "text": "But will God indeed dwell on the earth? Behold, heaven and the highest heaven cannot contain you; how much less this house that I have built!",
+      "audiences": ["deeper"]
+    },
+    {
+      "reference": "1 Kings 18:21",
+      "text": "And Elijah came near to all the people and said, 'How long will you go limping between two different opinions? If the LORD is God, follow him; but if Baal, then follow him.'",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Solomon's Wisdom",
+      "reference": "1 Kings 3:16-28",
+      "summary": "Solomon settles a dispute between two mothers, revealing the real mother through his famous judgment. His wisdom becomes legendary.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Temple Dedication",
+      "reference": "1 Kings 8",
+      "summary": "Solomon dedicates the magnificent temple with prayer and sacrifice. God's glory fills the temple, signifying His presence among His people.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "title": "Elijah on Mount Carmel",
+      "reference": "1 Kings 18",
+      "summary": "Elijah challenges 450 prophets of Baal to a contest. God answers with fire from heaven, proving He alone is God.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Solomon's temple took seven years to build and was one of the ancient world's most magnificent structures, covered in gold.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The kingdom split into Israel (north) and Judah (south) after Solomon's death, due to his son Rehoboam's harsh policies.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Elijah is one of only two people in the Bible who didn't die but were taken directly to heaven (the other is Enoch).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Despite his wisdom, Solomon's many foreign wives led his heart away from God, resulting in the kingdom's division.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Solomon",
+      "description": "David's son, known for unparalleled wisdom and building the temple. His later unfaithfulness to God led to the kingdom's division.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Elijah",
+      "description": "One of Israel's greatest prophets who confronted Baal worship and called Israel back to the LORD through dramatic miracles.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Ahab",
+      "description": "An evil king of Israel who, with his wife Jezebel, promoted Baal worship and opposed Elijah.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "name": "Jezebel",
+      "description": "Ahab's Phoenician wife who imported Baal worship into Israel and persecuted God's prophets. Her name became synonymous with wickedness.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Kings Overview",
+      "youtubeId": "bVFW3wbi9pk",
+      "description": "The Bible Project explores Solomon's reign, the divided kingdom, and the prophet Elijah.",
+      "audiences": ["all"]
+    }
+  ]
+}

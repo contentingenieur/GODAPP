@@ -1,0 +1,60 @@
+---
+interface Props {
+  title: string;
+  reference: string;
+  summary: string;
+  audiences?: string[];
+}
+
+const { title, reference, summary, audiences = ['all'] } = Astro.props;
+---
+
+<div class="passage-card card" data-audiences={audiences.join(',')}>
+  <h4 class="passage-title">{title}</h4>
+  <p class="passage-reference">{reference}</p>
+  <p class="passage-summary">{summary}</p>
+  {audiences.length > 0 && !audiences.includes('all') && (
+    <div class="passage-audiences">
+      {audiences.map(aud => (
+        <span class={`audience-tag audience-${aud}`}>
+          {aud.replace('-', ' ')}
+        </span>
+      ))}
+    </div>
+  )}
+</div>
+
+<style>
+  .passage-card {
+    border-top: 3px solid var(--color-secondary);
+  }
+
+  .passage-title {
+    font-family: var(--font-heading);
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0 0 var(--space-2) 0;
+  }
+
+  .passage-reference {
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-secondary);
+    margin: 0 0 var(--space-3) 0;
+  }
+
+  .passage-summary {
+    font-size: var(--text-base);
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .passage-audiences {
+    margin-top: var(--space-4);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+</style>

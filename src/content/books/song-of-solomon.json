@@ -1,0 +1,72 @@
+{
+  "overview": "Song of Solomon is a collection of love poetry celebrating romantic love between a bride and bridegroom. It affirms the goodness of marital love and has also been read as depicting Christ's love for His people.",
+  "verses": [
+    {
+      "reference": "Song of Solomon 2:4",
+      "text": "He brought me to the banqueting house, and his banner over me was love.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Song of Solomon 8:6-7",
+      "text": "Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the LORD. Many waters cannot quench love, neither can floods drown it.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Song of Solomon 2:16",
+      "text": "My beloved is mine, and I am his.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Power of Love",
+      "reference": "Song of Solomon 8:6-7",
+      "summary": "The climax of the book, declaring love's unconquerable strength—like death, like fire, beyond any price.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Beloved's Beauty",
+      "reference": "Song of Solomon 4:1-7",
+      "summary": "The bridegroom praises his bride's beauty in elaborate poetic imagery, declaring her altogether lovely.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Song of Solomon is one of five 'Megillot' (scrolls) read at Jewish festivals—traditionally at Passover.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The book never mentions God directly (like Esther), yet Jewish and Christian tradition has treasured it as Scripture.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Many throughout history have read the book as an allegory of God's love for Israel or Christ's love for the Church.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "text": "The title 'Song of Songs' means 'the greatest song,' similar to 'King of Kings' or 'Holy of Holies.'",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "The Bridegroom",
+      "description": "The male lover in the poem, traditionally identified with Solomon, expressing passionate love for his bride.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "The Bride (Shulammite)",
+      "description": "The female beloved, expressing her love and longing for her bridegroom with equal passion and beauty.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Song of Solomon Overview",
+      "youtubeId": "4KC7xE4fgOw",
+      "description": "The Bible Project explores this beautiful poetry about love and relationships.",
+      "audiences": ["all"]
+    }
+  ]
+}

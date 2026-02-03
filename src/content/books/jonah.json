@@ -1,0 +1,73 @@
+{
+  "overview": "Jonah is the story of a reluctant prophet who runs from God's call to preach to Nineveh. It reveals God's compassion for all nations—even Israel's enemies—and exposes human resistance to grace.",
+  "verses": [
+    {
+      "reference": "Jonah 2:9",
+      "text": "Salvation belongs to the LORD!",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Jonah 4:2",
+      "text": "I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Jonah 4:11",
+      "text": "And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?",
+      "audiences": ["exploring"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Jonah and the Fish",
+      "reference": "Jonah 1:17-2:10",
+      "summary": "God provides a great fish to swallow Jonah. From its belly, Jonah prays and is delivered—a picture of death and resurrection.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Nineveh Repents",
+      "reference": "Jonah 3",
+      "summary": "Jonah finally preaches to Nineveh, and the entire city—from king to cattle—repents in sackcloth and ashes.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Jonah's Anger",
+      "reference": "Jonah 4",
+      "summary": "Jonah is furious that God spared Nineveh. God gently rebukes his lack of compassion for 120,000 people.",
+      "audiences": ["exploring", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Jesus compared His death and resurrection to Jonah's three days in the fish (Matthew 12:40).",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Nineveh was the capital of Assyria, Israel's brutal enemy. Jonah didn't want them saved.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The book ends with a question from God—we never learn if Jonah changed his heart.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Jonah is the only prophet who runs away from his call and the only one who sees total success in his preaching.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jonah",
+      "description": "A prophet who ran from God rather than preach to Israel's enemies. His story reveals both human pettiness and God's vast compassion.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Jonah Overview",
+      "youtubeId": "dLIabZc0O4c",
+      "description": "The Bible Project explores this famous story about God's compassion for all nations.",
+      "audiences": ["all"]
+    }
+  ]
+}

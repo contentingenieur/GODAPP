@@ -1,0 +1,62 @@
+{
+  "overview": "1 Thessalonians is likely Paul's earliest letter, written to encourage young believers facing persecution. It emphasizes the return of Christ and provides comfort about believers who have died.",
+  "verses": [
+    {
+      "reference": "1 Thessalonians 5:16-18",
+      "text": "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Thessalonians 4:16-17",
+      "text": "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Thessalonians 5:11",
+      "text": "Therefore encourage one another and build one another up, just as you are doing.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Lord's Return",
+      "reference": "1 Thessalonians 4:13-18",
+      "summary": "Comfort for those grieving believers who died—they will rise first when the Lord returns, and we'll be together with Him forever.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "1 Thessalonians may be the oldest New Testament document, written around AD 50-51.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Every chapter ends with a reference to Christ's return—the theme of the letter.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Paul was in Thessalonica for only about three weeks before being forced to leave (Acts 17).",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle who cared for the Thessalonians like a nursing mother and encouraging father, writing to comfort them.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Timothy",
+      "description": "Sent by Paul to check on the Thessalonians, he returned with good news that prompted this joyful letter.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Thessalonians Overview",
+      "youtubeId": "No7Nq6IX23c",
+      "description": "The Bible Project explores Paul's encouragement about Christ's return.",
+      "audiences": ["all"]
+    }
+  ]
+}

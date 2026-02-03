@@ -1,0 +1,83 @@
+{
+  "overview": "Nehemiah tells how a Jewish cupbearer to the Persian king led the rebuilding of Jerusalem's walls despite fierce opposition. It demonstrates faithful leadership, prayerful dependence on God, and community renewal.",
+  "verses": [
+    {
+      "reference": "Nehemiah 8:10",
+      "text": "Then he said to them, 'Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the LORD is your strength.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Nehemiah 4:14",
+      "text": "Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your homes.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Nehemiah 1:5",
+      "text": "O LORD God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Nehemiah's Prayer",
+      "reference": "Nehemiah 1:4-11",
+      "summary": "Upon hearing Jerusalem lies in ruins, Nehemiah fasts, mourns, and prays—confessing Israel's sins before asking God for success.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Building Despite Opposition",
+      "reference": "Nehemiah 4",
+      "summary": "Enemies mock and threaten, but the people work with tools in one hand and weapons in the other, trusting God to fight for them.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "The Reading of the Law",
+      "reference": "Nehemiah 8",
+      "summary": "Ezra reads the Law to the assembled people. They weep at hearing it, then celebrate as they understand its meaning.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The wall was rebuilt in just 52 days, an astonishing feat that even Israel's enemies recognized as God's work.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Nehemiah was cupbearer to King Artaxerxes—a position of great trust that allowed him to request help for Jerusalem.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Nehemiah prayed 'arrow prayers'—brief, instant prayers throughout his narrative—modeling constant dependence on God.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "text": "The book records one of the earliest examples of public Scripture reading with explanation, a pattern continued in synagogues.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Nehemiah",
+      "description": "A cupbearer who became a governor, combining practical leadership with deep prayer. He organized, motivated, and defended God's people.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Sanballat",
+      "description": "A Samaritan official who opposed the rebuilding through mockery, threats, and plots—representing opposition to God's work.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "Ezra",
+      "description": "The priest who read and explained the Law to the people, working alongside Nehemiah in spiritual renewal.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ezra-Nehemiah Overview",
+      "youtubeId": "MkETkRv9tG8",
+      "description": "The Bible Project explores the return from exile and the rebuilding of Jerusalem.",
+      "audiences": ["all"]
+    }
+  ]
+}

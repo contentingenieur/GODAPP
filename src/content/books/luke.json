@@ -1,0 +1,94 @@
+{
+  "overview": "Luke presents the most complete account of Jesus' life, emphasizing His compassion for outcasts, women, and the poor. Written by a physician for a Gentile audience, it shows Jesus as the Savior of all people.",
+  "verses": [
+    {
+      "reference": "Luke 19:10",
+      "text": "For the Son of Man came to seek and to save the lost.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Luke 2:10-11",
+      "text": "Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Luke 6:27-28",
+      "text": "But I say to you who hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Luke 23:34",
+      "text": "And Jesus said, 'Father, forgive them, for they know not what they do.'",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Nativity",
+      "reference": "Luke 2:1-20",
+      "summary": "The familiar Christmas story—Jesus born in Bethlehem, laid in a manger, announced to shepherds by angels.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Prodigal Son",
+      "reference": "Luke 15:11-32",
+      "summary": "Jesus' most famous parable about a rebellious son who returns home and a father who runs to embrace him.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Road to Emmaus",
+      "reference": "Luke 24:13-35",
+      "summary": "The risen Jesus walks with two disciples, explaining how all Scripture points to Him. Their hearts burn within them.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Luke is the longest book in the New Testament and, with Acts, comprises about 28% of the New Testament.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Luke was a physician and Paul's traveling companion—the only Gentile author of a biblical book.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Only Luke records the parables of the Good Samaritan, Prodigal Son, and Rich Man and Lazarus.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "text": "Luke emphasizes prayer more than other Gospels, showing Jesus praying at every major moment of His ministry.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jesus",
+      "description": "The compassionate Savior who seeks the lost, welcomes outcasts, and dies praying for His enemies' forgiveness.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Mary",
+      "description": "Jesus' mother, whose song of praise (the Magnificat) celebrates God's care for the humble and hungry.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "Luke",
+      "description": "A physician and careful historian who investigated everything and wrote an orderly account for Theophilus.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Luke 1-9 Overview",
+      "youtubeId": "XIb_dCIxzr0",
+      "description": "The Bible Project explores the first half of Luke—Jesus the compassionate Savior.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Luke 10-24 Overview",
+      "youtubeId": "26z_KhwNdD8",
+      "description": "The Bible Project completes Luke—the journey to Jerusalem and the cross.",
+      "audiences": ["all"]
+    }
+  ]
+}

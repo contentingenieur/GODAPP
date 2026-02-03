@@ -1,0 +1,78 @@
+{
+  "overview": "Philippians is Paul's letter of joy, written from prison to thank his beloved church for their partnership. It teaches that true joy comes from knowing Christ and living for Him, regardless of circumstances.",
+  "verses": [
+    {
+      "reference": "Philippians 4:13",
+      "text": "I can do all things through him who strengthens me.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Philippians 4:6-7",
+      "text": "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Philippians 1:21",
+      "text": "For to me to live is Christ, and to die is gain.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Philippians 2:3-4",
+      "text": "Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Christ Hymn",
+      "reference": "Philippians 2:5-11",
+      "summary": "An early Christian hymn about Christ's humility—He emptied Himself, became a servant, died on a cross, and was exalted above all.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Knowing Christ",
+      "reference": "Philippians 3:7-14",
+      "summary": "Paul counts everything as loss compared to knowing Christ, pressing on toward the prize of God's upward call.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Joy or rejoice appears 16 times in this short letter written from prison—showing joy transcends circumstances.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Philippians 4:13 is about contentment in all circumstances—plenty or want—not about achieving personal goals.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Philippi was the first European city to receive the gospel (Acts 16), and this church was especially dear to Paul.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle in chains who still overflows with joy, modeling the mindset of Christ for his beloved Philippians.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Timothy",
+      "description": "Paul's trusted coworker, commended as one who genuinely cares for the Philippians' welfare.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "name": "Epaphroditus",
+      "description": "The Philippians' messenger who nearly died serving Paul, honored as a brother, fellow worker, and soldier.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Philippians Overview",
+      "youtubeId": "oE9qqW1-BkU",
+      "description": "The Bible Project explores Paul's joyful letter from prison.",
+      "audiences": ["all"]
+    }
+  ]
+}

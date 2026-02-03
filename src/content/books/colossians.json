@@ -1,0 +1,73 @@
+{
+  "overview": "Colossians presents the supremacy of Christ over all creation and false teaching. In Him all fullness dwells; believers are complete in Him and need no supplementary philosophies or rituals.",
+  "verses": [
+    {
+      "reference": "Colossians 1:15-17",
+      "text": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible... And he is before all things, and in him all things hold together.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Colossians 3:23-24",
+      "text": "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Colossians 2:6-7",
+      "text": "Therefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Supremacy of Christ",
+      "reference": "Colossians 1:15-20",
+      "summary": "A magnificent description of Christ's preeminence—Creator, Sustainer, Head of the church, and Reconciler of all things.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Complete in Christ",
+      "reference": "Colossians 2:8-15",
+      "summary": "Believers have fullness in Christ; no philosophy, ritual, or spiritual power can add to what He provides.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Paul never visited Colossae—the church was founded by Epaphras, who brought news to Paul in prison.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Colossians combats early forms of what became Gnosticism—philosophies mixing Jewish, pagan, and Christian elements.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The letter to the Laodiceans (4:16) is lost, though some think it might be Ephesians.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle who never visited Colossae but wrote to defend Christ's supremacy against philosophical dangers.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Epaphras",
+      "description": "The founder of the Colossian church who reported their situation to Paul and is commended for his prayers.",
+      "audiences": ["deeper"]
+    },
+    {
+      "name": "Onesimus",
+      "description": "A runaway slave returning to his master Philemon—mentioned here and the subject of Paul's letter to Philemon.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Colossians Overview",
+      "youtubeId": "pXTXlDxQsvc",
+      "description": "The Bible Project explores the supremacy and sufficiency of Christ.",
+      "audiences": ["all"]
+    }
+  ]
+}

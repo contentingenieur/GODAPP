@@ -1,0 +1,94 @@
+{
+  "overview": "Romans is Paul's theological masterpiece, systematically explaining the gospel. It covers sin, justification by faith, sanctification, and God's plan for Israel and Gentiles, concluding with practical Christian living.",
+  "verses": [
+    {
+      "reference": "Romans 8:28",
+      "text": "And we know that for those who love God all things work together for good, for those who are called according to his purpose.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Romans 3:23-24",
+      "text": "For all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Romans 5:8",
+      "text": "But God shows his love for us in that while we were still sinners, Christ died for us.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Romans 12:2",
+      "text": "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "reference": "Romans 8:38-39",
+      "text": "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Justification by Faith",
+      "reference": "Romans 3:21-26",
+      "summary": "The heart of the gospel: God's righteousness is received through faith in Jesus, who died as a sacrifice for sins.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "No Condemnation",
+      "reference": "Romans 8:1-17",
+      "summary": "Those in Christ face no condemnation. The Spirit gives life, leads God's children, and assures us we belong to Him.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "Living Sacrifice",
+      "reference": "Romans 12:1-8",
+      "summary": "Paul calls believers to offer themselves as living sacrifices, transformed minds, and members of one body with different gifts.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Romans has been called 'the greatest letter ever written' and has sparked numerous revivals and reformations.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Augustine, Luther, and Wesley all had life-changing experiences while reading Romans.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Paul wrote Romans around AD 57 from Corinth, before he had visited Rome, to prepare for his planned visit.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The 'Romans Road' evangelism method uses key verses from Romans to explain the gospel.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle who wrote this letter to prepare the Roman church for his visit and to explain the gospel systematically.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Abraham",
+      "description": "Used by Paul as the prime example of justification by faith—he believed God and it was credited as righteousness.",
+      "audiences": ["exploring", "deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Romans 1-4 Overview",
+      "youtubeId": "ej_6dVdJSIU",
+      "description": "The Bible Project explores the first section of Romans—the gospel and justification.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Romans 5-16 Overview",
+      "youtubeId": "0SVTl4Xa5fY",
+      "description": "The Bible Project completes Romans—new life, Israel, and practical living.",
+      "audiences": ["all"]
+    }
+  ]
+}

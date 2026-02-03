@@ -1,0 +1,94 @@
+{
+  "overview": "Matthew presents Jesus as the promised Messiah and King of the Jews. Written primarily for Jewish readers, it shows how Jesus fulfills Old Testament prophecy and teaches the way of God's kingdom.",
+  "verses": [
+    {
+      "reference": "Matthew 28:19-20",
+      "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Matthew 11:28-30",
+      "text": "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Matthew 6:33",
+      "text": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Matthew 22:37-39",
+      "text": "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Sermon on the Mount",
+      "reference": "Matthew 5-7",
+      "summary": "Jesus' foundational teaching on kingdom life, including the Beatitudes, the Lord's Prayer, and the call to build on rock not sand.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Lord's Prayer",
+      "reference": "Matthew 6:9-13",
+      "summary": "Jesus teaches His disciples how to pray, providing a model that has shaped Christian worship for two thousand years.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Great Commission",
+      "reference": "Matthew 28:16-20",
+      "summary": "The risen Jesus sends His disciples to make disciples of all nations, promising His presence always.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Matthew quotes the Old Testament more than any other Gospel, using 'fulfilled' about a dozen times to show Jesus as Messiah.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Matthew was a tax collector—despised by Jews for working with Rome—whom Jesus called to be a disciple.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The Gospel contains five major teaching sections, perhaps echoing the five books of Moses.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Only Matthew records the visit of the Magi, the flight to Egypt, and Herod's massacre of infants.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jesus",
+      "description": "The promised Messiah, Son of David, and King of the Jews who taught, healed, died for sins, and rose from the dead.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Matthew",
+      "description": "A tax collector called by Jesus to become a disciple and apostle, who wrote this Gospel to show Jesus as the promised King.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "Peter",
+      "description": "The disciple who confessed Jesus as 'the Christ, the Son of the living God' and was given the keys of the kingdom.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Matthew 1-13 Overview",
+      "youtubeId": "3Dv4-n6OYGI",
+      "description": "The Bible Project explores the first half of Matthew—Jesus as the promised King.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Matthew 14-28 Overview",
+      "youtubeId": "GGCF3OPWN14",
+      "description": "The Bible Project completes Matthew—suffering, death, and resurrection of the King.",
+      "audiences": ["all"]
+    }
+  ]
+}

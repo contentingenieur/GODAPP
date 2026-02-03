@@ -1,0 +1,72 @@
+{
+  "overview": "1 Chronicles retells Israel's history from Adam through David's reign, emphasizing worship, the temple, and God's faithfulness. Written after the exile, it encourages the returned community about their spiritual heritage.",
+  "verses": [
+    {
+      "reference": "1 Chronicles 16:34",
+      "text": "Oh give thanks to the LORD, for he is good; for his steadfast love endures forever!",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Chronicles 29:11",
+      "text": "Yours, O LORD, is the greatness and the power and the glory and the victory and the majesty, for all that is in the heavens and in the earth is yours.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "1 Chronicles 28:9",
+      "text": "And you, Solomon my son, know the God of your father and serve him with a whole heart and with a willing mind, for the LORD searches all hearts.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "David's Prayer of Thanksgiving",
+      "reference": "1 Chronicles 29:10-19",
+      "summary": "David's magnificent prayer acknowledging that everything belongs to God and comes from His hand, offered as the temple preparations are completed.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Ark Comes to Jerusalem",
+      "reference": "1 Chronicles 15-16",
+      "summary": "David brings the ark to Jerusalem with great celebration and establishes ongoing worship before it.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The first nine chapters consist almost entirely of genealogies, tracing Israel's lineage from Adam to the post-exilic period.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Chronicles was likely written by Ezra the scribe after the Babylonian exile, to remind returned exiles of their identity and heritage.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Unlike Samuel and Kings, Chronicles focuses almost exclusively on Judah and the Davidic line, omitting most northern kingdom history.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The book emphasizes worship and the temple more than political history, showing what matters most to God's people.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "David",
+      "description": "Presented primarily as the worship leader and temple planner, this account emphasizes David's spiritual legacy over his failures.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Solomon",
+      "description": "Receives David's charge to build the temple and serve God wholeheartedly, inheriting detailed plans and massive resources.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Chronicles Overview",
+      "youtubeId": "HR7xaHv3Ias",
+      "description": "The Bible Project explores how Chronicles retells Israel's story with a focus on worship and hope.",
+      "audiences": ["all"]
+    }
+  ]
+}

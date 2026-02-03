@@ -1,0 +1,63 @@
+{
+  "overview": "Micah prophesied alongside Isaiah, condemning injustice while promising a future ruler from Bethlehem. His summary of true religion—justice, mercy, and humility—remains timelessly relevant.",
+  "verses": [
+    {
+      "reference": "Micah 6:8",
+      "text": "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Micah 5:2",
+      "text": "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Micah 7:18",
+      "text": "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Bethlehem Prophecy",
+      "reference": "Micah 5:2-5",
+      "summary": "From tiny Bethlehem will come a ruler whose origins are ancient—the prophecy quoted when the Magi sought Jesus.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "True Religion",
+      "reference": "Micah 6:6-8",
+      "summary": "God doesn't want elaborate sacrifices but a life of justice, mercy, and humble obedience—the heart of true faith.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Micah 6:8 has been called the greatest summary of ethical religion in the Old Testament.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The religious leaders quoted Micah 5:2 to tell Herod where the Messiah would be born (Matthew 2:5-6).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Micah's name means 'Who is like the LORD?'—a question answered in his prophecy (Micah 7:18).",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Micah",
+      "description": "A prophet from a small town who spoke for the poor and oppressed while foretelling the Messiah's birthplace.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Micah Overview",
+      "youtubeId": "MFEUEcylwLc",
+      "description": "The Bible Project explores Micah's call for justice, mercy, and the coming King from Bethlehem.",
+      "audiences": ["all"]
+    }
+  ]
+}

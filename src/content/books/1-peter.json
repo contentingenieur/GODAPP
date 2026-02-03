@@ -1,0 +1,73 @@
+{
+  "overview": "1 Peter encourages suffering believers scattered throughout Asia Minor. They are called to hope in Christ's return, submit to authorities, and rejoice in trials as they follow Christ's example of suffering.",
+  "verses": [
+    {
+      "reference": "1 Peter 5:7",
+      "text": "Casting all your anxieties on him, because he cares for you.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Peter 2:9",
+      "text": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Peter 3:15",
+      "text": "But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Peter 1:3",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "A Living Hope",
+      "reference": "1 Peter 1:3-9",
+      "summary": "Through Christ's resurrection, believers have a living hope and an inheritance that cannot perish, spoil, or fade.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Christ's Example in Suffering",
+      "reference": "1 Peter 2:21-25",
+      "summary": "Christ suffered for us, leaving an example to follow—He didn't retaliate but entrusted Himself to God.",
+      "audiences": ["exploring", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Peter wrote this letter from 'Babylon' (5:13), probably code for Rome, shortly before his martyrdom.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The word 'suffering' appears 16 times in this short letter—Peter knows what he's talking about.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "1 Peter 3:15 is the foundation for Christian apologetics—giving a reason for our hope.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Peter",
+      "description": "The apostle who denied Christ now writes boldly about following Him through suffering, soon to face his own martyrdom.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Silvanus (Silas)",
+      "description": "Peter's secretary who helped write this letter and was also Paul's missionary companion.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Peter Overview",
+      "youtubeId": "WhP7AZQlzCg",
+      "description": "The Bible Project explores hope and holiness in the midst of suffering.",
+      "audiences": ["all"]
+    }
+  ]
+}

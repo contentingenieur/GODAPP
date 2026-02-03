@@ -1,0 +1,98 @@
+{
+  "overview": "Revelation is the Bible's climax—a vision of Christ's ultimate victory over evil, the final judgment, and the new creation. Through vivid imagery, it assures suffering believers that God will make all things right.",
+  "verses": [
+    {
+      "reference": "Revelation 21:4",
+      "text": "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Revelation 1:8",
+      "text": "'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Revelation 3:20",
+      "text": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Revelation 22:20",
+      "text": "He who testifies to these things says, 'Surely I am coming soon.' Amen. Come, Lord Jesus!",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Vision of Christ",
+      "reference": "Revelation 1:12-18",
+      "summary": "John sees the risen Christ in blazing glory—eyes like fire, face like the sun, holding the keys of Death and Hades.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Throne Room",
+      "reference": "Revelation 4-5",
+      "summary": "Heaven's worship: God on the throne, living creatures, elders, and the Lamb who alone is worthy to open the scroll.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The New Creation",
+      "reference": "Revelation 21:1-22:5",
+      "summary": "A new heaven and earth, the holy city descending, God dwelling with His people forever—no tears, death, or night.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Revelation is the only New Testament book that promises blessing to those who read and hear it (1:3).",
+      "audiences": ["all"]
+    },
+    {
+      "text": "John wrote from exile on Patmos during persecution, likely under Emperor Domitian around AD 95.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The number 7 appears over 50 times—representing completeness: 7 churches, seals, trumpets, bowls, etc.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The book draws heavily on Old Testament imagery, especially Daniel, Ezekiel, Isaiah, and Exodus.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Christians have interpreted Revelation differently throughout history—as past, ongoing, future, or symbolic.",
+      "audiences": ["questions"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jesus Christ",
+      "description": "The risen Lord revealed in glory—the Lion who is a Lamb, the King of kings who conquers through sacrifice.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "John",
+      "description": "The exiled apostle who received this revelation on Patmos and wrote to seven churches in Asia.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "The Lamb",
+      "description": "Christ pictured as a slain lamb standing—victorious through sacrifice, alone worthy to open God's scroll.",
+      "audiences": ["exploring", "deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Revelation 1-11 Overview",
+      "youtubeId": "5nvVVcYD-0w",
+      "description": "The Bible Project explores the first half of Revelation and its heavenly worship.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Revelation 12-22 Overview",
+      "youtubeId": "QpnIrbq2bKo",
+      "description": "The Bible Project completes Revelation—the battle, judgment, and new creation.",
+      "audiences": ["all"]
+    }
+  ]
+}

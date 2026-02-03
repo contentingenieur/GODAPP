@@ -1,0 +1,74 @@
+{
+  "overview": "Ezekiel prophesied to Jewish exiles in Babylon with dramatic visions and symbolic acts. His message moves from judgment to restoration, culminating in visions of a future temple and God's glory returning to His people.",
+  "verses": [
+    {
+      "reference": "Ezekiel 36:26",
+      "text": "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ezekiel 37:14",
+      "text": "And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Valley of Dry Bones",
+      "reference": "Ezekiel 37:1-14",
+      "summary": "God shows Ezekiel a valley of dry bones that come to life, symbolizing Israel's restoration and the power of God's Spirit.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "God's Glory Departs",
+      "reference": "Ezekiel 10-11",
+      "summary": "Ezekiel watches God's glory reluctantly leave the temple due to Israel's sin—a devastating vision of abandonment.",
+      "audiences": ["deeper"]
+    },
+    {
+      "title": "God's Glory Returns",
+      "reference": "Ezekiel 43:1-5",
+      "summary": "In his final visions, Ezekiel sees God's glory return to the new temple from the east—restoration is coming.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Ezekiel was a priest called to be a prophet among the exiles in Babylon, beginning his ministry in 593 BC.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "God commanded Ezekiel to perform many dramatic symbolic acts, like lying on his side for 390 days and cooking food over dung.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The phrase 'son of man' appears 93 times in Ezekiel, a title Jesus would later apply to Himself.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Ezekiel's vision of the dry bones is the basis for the African American spiritual 'Dem Bones.'",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Ezekiel",
+      "description": "A priest-prophet who received spectacular visions and performed dramatic acts to communicate God's message to the exiles.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ezekiel 1-33 Overview",
+      "youtubeId": "R-CIPu1nko8",
+      "description": "The Bible Project explores Ezekiel's visions of judgment and God's glory.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Ezekiel 34-48 Overview",
+      "youtubeId": "SDeCWW_Ber4",
+      "description": "The Bible Project explores Ezekiel's visions of restoration and the new temple.",
+      "audiences": ["all"]
+    }
+  ]
+}

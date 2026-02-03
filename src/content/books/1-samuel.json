@@ -1,0 +1,88 @@
+{
+  "overview": "1 Samuel records Israel's transition from judges to monarchy, featuring Samuel the prophet, Saul the failed king, and David's rise. It explores themes of leadership, obedience, and God's sovereignty.",
+  "verses": [
+    {
+      "reference": "1 Samuel 16:7",
+      "text": "But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Samuel 15:22",
+      "text": "And Samuel said, 'Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to listen than the fat of rams.'",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "1 Samuel 17:47",
+      "text": "And that all this assembly may know that the LORD saves not with sword and spear. For the battle is the LORD's, and he will give you into our hand.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Hannah's Prayer",
+      "reference": "1 Samuel 1-2",
+      "summary": "A barren woman prays desperately for a child and dedicates him to God. Her son Samuel becomes Israel's last judge and kingmaker.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "David and Goliath",
+      "reference": "1 Samuel 17",
+      "summary": "A young shepherd defeats a giant warrior with a sling and stone, demonstrating that faith in God overcomes any obstacle.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Saul's Rejection",
+      "reference": "1 Samuel 15",
+      "summary": "King Saul's partial obedience to God's command leads to his rejection as king, teaching that obedience matters more than religious ritual.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Samuel was the last judge and first of the prophets in the formal sense, bridging two eras of Israel's history.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "David was anointed king years before he actually took the throne, spending much of that time fleeing from jealous King Saul.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Goliath was about 9 feet 9 inches tall (six cubits and a span), and his armor weighed about 125 pounds.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The friendship between David and Jonathan is one of the Bible's greatest examples of loyal friendship, despite Jonathan being heir to the throne David would take.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Samuel",
+      "description": "Prophet, priest, and judge who anointed both Saul and David as kings. Born in answer to his mother Hannah's desperate prayer.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Saul",
+      "description": "Israel's first king, chosen for his impressive appearance. His disobedience and jealousy led to his rejection by God and tragic end.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "David",
+      "description": "The shepherd boy anointed to be king. A man after God's own heart who faced Goliath with faith and would become Israel's greatest king.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Jonathan",
+      "description": "Saul's son and David's closest friend. He selflessly supported David's kingship over his own claim to the throne.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Samuel Overview",
+      "youtubeId": "QJOju5Dw0V0",
+      "description": "The Bible Project explores Israel's transition to monarchy and the rise of David.",
+      "audiences": ["all"]
+    }
+  ]
+}

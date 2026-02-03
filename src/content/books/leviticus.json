@@ -1,0 +1,72 @@
+{
+  "overview": "Leviticus, the book of holiness, provides detailed instructions for Israel's worship, sacrifices, and daily living. It reveals how a holy God can dwell among sinful people through atonement and consecration.",
+  "verses": [
+    {
+      "reference": "Leviticus 19:2",
+      "text": "Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the LORD your God am holy.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Leviticus 17:11",
+      "text": "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.",
+      "audiences": ["deeper"]
+    },
+    {
+      "reference": "Leviticus 19:18",
+      "text": "You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the LORD.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Day of Atonement",
+      "reference": "Leviticus 16",
+      "summary": "The annual day when the high priest entered the Most Holy Place to make atonement for Israel's sins, foreshadowing Christ's ultimate sacrifice.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Holiness Code",
+      "reference": "Leviticus 19-20",
+      "summary": "Practical instructions for holy living, including the command to love your neighbor—later quoted by Jesus as the second greatest commandment.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The word 'holy' appears more times in Leviticus than in any other book of the Bible—over 90 times.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The five main offerings (burnt, grain, peace, sin, guilt) each picture different aspects of Christ's sacrifice.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Jesus quoted Leviticus 19:18 ('love your neighbor') as the second greatest commandment (Matthew 22:39).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "The scapegoat on the Day of Atonement symbolically carried away the people's sins—a vivid picture of what Christ does for believers.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Aaron",
+      "description": "Israel's first high priest, consecrated in Leviticus 8-9 to serve as mediator between God and the people in the tabernacle.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Nadab and Abihu",
+      "description": "Aaron's sons who offered unauthorized fire before the Lord and were struck dead—a sobering warning about approaching God carelessly.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Leviticus Overview",
+      "youtubeId": "WmvyrLXoQio",
+      "description": "The Bible Project explains how Leviticus reveals the path to living in God's holy presence.",
+      "audiences": ["all"]
+    }
+  ]
+}

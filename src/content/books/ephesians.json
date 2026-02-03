@@ -1,0 +1,74 @@
+{
+  "overview": "Ephesians presents the grandeur of God's plan to unite all things in Christ. It moves from spiritual blessings and salvation by grace to practical instructions for living as Christ's body, the church.",
+  "verses": [
+    {
+      "reference": "Ephesians 2:8-9",
+      "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ephesians 3:20",
+      "text": "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ephesians 4:32",
+      "text": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Ephesians 6:12",
+      "text": "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Saved by Grace",
+      "reference": "Ephesians 2:1-10",
+      "summary": "Dead in sin, made alive in Christ—salvation is entirely by grace through faith, creating us for good works.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "One Body, One Spirit",
+      "reference": "Ephesians 4:1-16",
+      "summary": "Paul calls for unity in the Spirit, with diverse gifts working together to build up Christ's body in love.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "title": "The Armor of God",
+      "reference": "Ephesians 6:10-18",
+      "summary": "Paul describes the believer's spiritual armor for standing against the devil's schemes.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Ephesians 2:8-9 is one of the clearest statements that salvation is by grace through faith, not by works.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Paul wrote Ephesians from prison in Rome, yet it overflows with praise and cosmic vision.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The 'armor of God' imagery draws from Roman soldier equipment Paul would have seen during his imprisonment.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The imprisoned apostle who writes with breathtaking vision about God's eternal purpose and the church's calling.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ephesians Overview",
+      "youtubeId": "Y71r-T98E2Q",
+      "description": "The Bible Project explores God's plan to unite all things in Christ.",
+      "audiences": ["all"]
+    }
+  ]
+}

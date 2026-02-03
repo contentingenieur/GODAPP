@@ -1,0 +1,183 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import BookNav from '../components/BookNav.astro';
+import BookCard from '../components/BookCard.astro';
+import books from '../data/books.json';
+
+// Group books by section
+const sections = {
+  oldTestament: [
+    { name: "Pentateuch", books: books.filter(b => b.section === "pentateuch") },
+    { name: "Historical Books", books: books.filter(b => b.section === "historical-ot") },
+    { name: "Wisdom Literature", books: books.filter(b => b.section === "wisdom") },
+    { name: "Major Prophets", books: books.filter(b => b.section === "major-prophets") },
+    { name: "Minor Prophets", books: books.filter(b => b.section === "minor-prophets") },
+  ],
+  newTestament: [
+    { name: "Gospels", books: books.filter(b => b.section === "gospels") },
+    { name: "History", books: books.filter(b => b.section === "history-nt") },
+    { name: "Pauline Epistles", books: books.filter(b => b.section === "pauline") },
+    { name: "General Epistles", books: books.filter(b => b.section === "general-epistles") },
+    { name: "Apocalyptic", books: books.filter(b => b.section === "apocalyptic") },
+  ]
+};
+---
+
+<BaseLayout title="Home" description="Explore all 66 books of the Bible with famous verses, key figures, and interesting facts">
+  <Header />
+  <BookNav />
+
+  <main class="home-page">
+    <div class="container">
+      <section class="hero">
+        <h1>Explore the Bible</h1>
+        <p class="hero-subtitle">
+          Discover famous verses, key figures, and interesting facts from all 66 books of Scripture.
+        </p>
+      </section>
+
+      <section class="testament-section">
+        <h2 class="testament-title">
+          <span class="testament-badge old">Old Testament</span>
+          <span class="book-count">39 Books</span>
+        </h2>
+
+        {sections.oldTestament.map(group => (
+          <div class="book-section">
+            <h3 class="section-name">{group.name}</h3>
+            <div class="book-grid">
+              {group.books.map(book => (
+                <BookCard
+                  name={book.name}
+                  slug={book.slug}
+                  chapters={book.chapters}
+                  testament="old"
+                />
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+
+      <section class="testament-section">
+        <h2 class="testament-title">
+          <span class="testament-badge new">New Testament</span>
+          <span class="book-count">27 Books</span>
+        </h2>
+
+        {sections.newTestament.map(group => (
+          <div class="book-section">
+            <h3 class="section-name">{group.name}</h3>
+            <div class="book-grid">
+              {group.books.map(book => (
+                <BookCard
+                  name={book.name}
+                  slug={book.slug}
+                  chapters={book.chapters}
+                  testament="new"
+                />
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .home-page {
+    flex: 1;
+    padding: var(--space-8) 0;
+  }
+
+  .hero {
+    text-align: center;
+    margin-bottom: var(--space-12);
+  }
+
+  .hero h1 {
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-4);
+  }
+
+  .hero-subtitle {
+    font-size: var(--text-lg);
+    color: var(--color-text-light);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .testament-section {
+    margin-bottom: var(--space-12);
+  }
+
+  .testament-title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    margin-bottom: var(--space-6);
+    padding-bottom: var(--space-4);
+    border-bottom: 2px solid var(--color-border-light);
+  }
+
+  .testament-badge {
+    display: inline-block;
+    padding: var(--space-2) var(--space-4);
+    font-size: var(--text-lg);
+    font-weight: 600;
+    border-radius: var(--radius-md);
+  }
+
+  .testament-badge.old {
+    background-color: rgba(139, 115, 85, 0.15);
+    color: var(--color-secondary);
+  }
+
+  .testament-badge.new {
+    background-color: rgba(107, 123, 110, 0.15);
+    color: var(--color-accent);
+  }
+
+  .book-count {
+    font-size: var(--text-sm);
+    font-weight: 400;
+    color: var(--color-text-light);
+  }
+
+  .book-section {
+    margin-bottom: var(--space-8);
+  }
+
+  .section-name {
+    font-size: var(--text-base);
+    font-weight: 500;
+    color: var(--color-text-light);
+    margin-bottom: var(--space-4);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: var(--space-3);
+  }
+
+  @media (max-width: 768px) {
+    .hero h1 {
+      font-size: var(--text-3xl);
+    }
+
+    .testament-title {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: var(--space-2);
+    }
+
+    .book-grid {
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    }
+  }
+</style>

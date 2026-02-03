@@ -1,0 +1,83 @@
+{
+  "overview": "Esther tells how a Jewish queen saved her people from genocide in Persia. Though God's name never appears, His providence is evident throughout this thrilling story of courage and deliverance.",
+  "verses": [
+    {
+      "reference": "Esther 4:14",
+      "text": "For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And who knows whether you have not come to the kingdom for such a time as this?",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Esther 4:16",
+      "text": "Then I will go to the king, though it is against the law, and if I perish, I perish.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Esther Becomes Queen",
+      "reference": "Esther 2",
+      "summary": "A Jewish orphan wins a beauty contest and becomes queen of Persia, unknowingly positioned for her people's deliverance.",
+      "audiences": ["exploring"]
+    },
+    {
+      "title": "Esther's Courage",
+      "reference": "Esther 4-5",
+      "summary": "Esther risks her life by approaching the king uninvited to expose Haman's plot against her people.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Tables Turned",
+      "reference": "Esther 7-8",
+      "summary": "Haman is hanged on the gallows he built for Mordecai, and the Jews are given the right to defend themselves.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Esther is one of only two Bible books named after women (Ruth is the other) and one of two that never mentions God directly (Song of Solomon).",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The Jewish festival of Purim celebrates this deliverance and is still observed today with the reading of Esther.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The book contains remarkable 'coincidences' that show God's hidden providence—the king's sleepless night, Haman's timing, etc.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "text": "Esther's Persian name means 'star.' Her Hebrew name was Hadassah, meaning 'myrtle.'",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Esther",
+      "description": "A Jewish orphan who became queen of Persia and risked her life to save her people, showing courage born of faith.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Mordecai",
+      "description": "Esther's cousin and guardian who refused to bow to Haman and guided Esther to act courageously at the crucial moment.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Haman",
+      "description": "The king's vizier whose pride and hatred of Jews led him to plot genocide. His schemes backfired completely.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "Xerxes (Ahasuerus)",
+      "description": "The Persian king whose decisions, guided by providence, moved from endangering the Jews to allowing their deliverance.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Esther Overview",
+      "youtubeId": "JydNSlufRIs",
+      "description": "The Bible Project explores this story of courage and God's hidden providence.",
+      "audiences": ["all"]
+    }
+  ]
+}

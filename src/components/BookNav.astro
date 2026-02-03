@@ -1,0 +1,227 @@
+---
+import books from '../data/books.json';
+
+interface Props {
+  currentBook?: string;
+}
+
+const { currentBook } = Astro.props;
+
+// Group books by section
+const sections = {
+  oldTestament: {
+    title: "Old Testament",
+    groups: [
+      { name: "Pentateuch", books: books.filter(b => b.section === "pentateuch") },
+      { name: "Historical Books", books: books.filter(b => b.section === "historical-ot") },
+      { name: "Wisdom Literature", books: books.filter(b => b.section === "wisdom") },
+      { name: "Major Prophets", books: books.filter(b => b.section === "major-prophets") },
+      { name: "Minor Prophets", books: books.filter(b => b.section === "minor-prophets") },
+    ]
+  },
+  newTestament: {
+    title: "New Testament",
+    groups: [
+      { name: "Gospels", books: books.filter(b => b.section === "gospels") },
+      { name: "History", books: books.filter(b => b.section === "history-nt") },
+      { name: "Pauline Epistles", books: books.filter(b => b.section === "pauline") },
+      { name: "General Epistles", books: books.filter(b => b.section === "general-epistles") },
+      { name: "Apocalyptic", books: books.filter(b => b.section === "apocalyptic") },
+    ]
+  }
+};
+---
+
+<nav class="book-nav" id="bookNav">
+  <div class="book-nav-overlay" id="bookNavOverlay"></div>
+  <div class="book-nav-content">
+    <div class="book-nav-header">
+      <h2>Books of the Bible</h2>
+      <button class="book-nav-close" id="bookNavClose" aria-label="Close navigation">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"/>
+          <line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="book-nav-sections">
+      {Object.entries(sections).map(([key, section]) => (
+        <div class="testament">
+          <h3 class="testament-title">{section.title}</h3>
+          {section.groups.map(group => (
+            <div class="book-group">
+              <h4 class="group-title">{group.name}</h4>
+              <ul class="book-list">
+                {group.books.map(book => (
+                  <li>
+                    <a
+                      href={`/books/${book.slug}`}
+                      class:list={["book-link", { active: currentBook === book.slug }]}
+                    >
+                      {book.name}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      ))}
+    </div>
+  </div>
+</nav>
+
+<script>
+  const nav = document.getElementById('bookNav');
+  const overlay = document.getElementById('bookNavOverlay');
+  const closeBtn = document.getElementById('bookNavClose');
+  const toggleBtn = document.getElementById('bookNavToggle');
+
+  function openNav() {
+    nav?.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeNav() {
+    nav?.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  toggleBtn?.addEventListener('click', openNav);
+  closeBtn?.addEventListener('click', closeNav);
+  overlay?.addEventListener('click', closeNav);
+
+  // Close on escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeNav();
+  });
+</script>
+
+<style>
+  .book-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 200;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity var(--transition-base);
+  }
+
+  .book-nav.open {
+    pointer-events: auto;
+    opacity: 1;
+  }
+
+  .book-nav-overlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .book-nav-content {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    max-width: 400px;
+    background-color: var(--color-surface);
+    transform: translateX(100%);
+    transition: transform var(--transition-base);
+    overflow-y: auto;
+    padding: var(--space-4);
+  }
+
+  .book-nav.open .book-nav-content {
+    transform: translateX(0);
+  }
+
+  .book-nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-6);
+    padding-bottom: var(--space-4);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .book-nav-header h2 {
+    font-size: var(--text-lg);
+    margin: 0;
+  }
+
+  .book-nav-close {
+    background: none;
+    border: none;
+    color: var(--color-text-light);
+    cursor: pointer;
+    padding: var(--space-2);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-fast);
+  }
+
+  .book-nav-close:hover {
+    background-color: var(--color-border-light);
+    color: var(--color-text);
+  }
+
+  .testament {
+    margin-bottom: var(--space-6);
+  }
+
+  .testament-title {
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--color-accent);
+    margin-bottom: var(--space-4);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .book-group {
+    margin-bottom: var(--space-4);
+  }
+
+  .group-title {
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-text-light);
+    margin-bottom: var(--space-2);
+  }
+
+  .book-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1);
+  }
+
+  .book-link {
+    display: inline-block;
+    padding: var(--space-1) var(--space-2);
+    font-size: var(--text-sm);
+    color: var(--color-text);
+    border-radius: var(--radius-sm);
+    transition: all var(--transition-fast);
+  }
+
+  .book-link:hover {
+    background-color: var(--color-border-light);
+    text-decoration: none;
+  }
+
+  .book-link.active {
+    background-color: var(--color-accent);
+    color: white;
+  }
+
+  @media (min-width: 768px) {
+    .book-nav-content {
+      max-width: 500px;
+    }
+  }
+</style>

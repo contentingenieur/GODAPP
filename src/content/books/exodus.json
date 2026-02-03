@@ -1,0 +1,99 @@
+{
+  "overview": "Exodus tells the story of Israel's deliverance from Egyptian slavery, God's covenant at Mount Sinai, and the construction of the tabernacle. It reveals God as both Redeemer and Lawgiver.",
+  "verses": [
+    {
+      "reference": "Exodus 3:14",
+      "text": "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Exodus 14:14",
+      "text": "The LORD will fight for you, and you have only to be silent.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Exodus 20:2-3",
+      "text": "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Exodus 34:6-7",
+      "text": "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Burning Bush",
+      "reference": "Exodus 3:1-15",
+      "summary": "God appears to Moses in a burning bush and reveals His name 'I AM,' commissioning Moses to lead Israel out of Egypt.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "The Ten Plagues",
+      "reference": "Exodus 7-12",
+      "summary": "God sends ten devastating plagues on Egypt, demonstrating His power over Pharaoh and Egyptian gods, culminating in the Passover.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Ten Commandments",
+      "reference": "Exodus 20:1-17",
+      "summary": "God gives Israel the foundational moral law at Mount Sinai, establishing how to relate to God and to one another.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The Passover lamb foreshadows Jesus—the Lamb of God whose blood causes judgment to 'pass over' believers (1 Corinthians 5:7).",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "text": "The name 'Exodus' means 'going out' or 'departure' in Greek, referring to Israel's departure from Egypt.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The tabernacle contained detailed instructions spanning 13 chapters, showing God's desire to dwell among His people.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Moses spent 40 days on Mount Sinai with God—twice. The first tablets were broken; God graciously gave a second set.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Moses",
+      "description": "Israel's deliverer, raised in Pharaoh's palace but called by God at 80 years old. He led Israel out of Egypt and received God's law on Mount Sinai.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Aaron",
+      "description": "Moses' brother and Israel's first high priest. Though he spoke for Moses and served faithfully, he also made the golden calf during Moses' absence.",
+      "audiences": ["new-faith", "deeper"]
+    },
+    {
+      "name": "Pharaoh",
+      "description": "The Egyptian king who refused to let Israel go, hardening his heart against God's commands. His stubbornness brought devastating judgment on Egypt.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "Miriam",
+      "description": "Moses and Aaron's sister, a prophetess who led Israel in worship after crossing the Red Sea. She watched over baby Moses in the Nile.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Exodus 1-18 Overview",
+      "youtubeId": "jH_aojNJM3E",
+      "description": "The Bible Project's visual overview of the first half of Exodus—from slavery to Sinai.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Exodus 19-40 Overview",
+      "youtubeId": "oNpTha80yyE",
+      "description": "The Bible Project's overview of the covenant, law, and tabernacle in the second half of Exodus.",
+      "audiences": ["all"]
+    }
+  ]
+}

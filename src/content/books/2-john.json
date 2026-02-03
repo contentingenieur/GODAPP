@@ -1,0 +1,52 @@
+{
+  "overview": "2 John is a brief letter warning against showing hospitality to false teachers who deny Christ came in the flesh. Truth and love must go together—love doesn't mean accepting every teaching.",
+  "verses": [
+    {
+      "reference": "2 John 1:6",
+      "text": "And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "2 John 1:9",
+      "text": "Everyone who goes on ahead and does not abide in the teaching of Christ, does not have God. Whoever abides in the teaching has both the Father and the Son.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Truth and Love",
+      "reference": "2 John 1-6",
+      "summary": "John writes to the 'elect lady' (possibly a church) about walking in truth and love together—they belong together.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "2 John is the shortest book in the Bible by word count in the original Greek.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The 'elect lady' may be a church personified as a woman, or an actual woman hosting a house church.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "John warns against giving traveling teachers hospitality if they deny Christ—supporting them means sharing in their evil.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "John",
+      "description": "The elder writing to protect his spiritual children from deception while encouraging love and obedience.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1-3 John Overview",
+      "youtubeId": "l3QkE6nKylM",
+      "description": "The Bible Project explores John's three letters together.",
+      "audiences": ["all"]
+    }
+  ]
+}

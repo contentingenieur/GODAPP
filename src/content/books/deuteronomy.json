@@ -1,0 +1,83 @@
+{
+  "overview": "Deuteronomy ('second law') contains Moses' final sermons to Israel before entering the Promised Land. It calls the new generation to covenant faithfulness, love for God, and obedience to His commands.",
+  "verses": [
+    {
+      "reference": "Deuteronomy 6:4-5",
+      "text": "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Deuteronomy 31:6",
+      "text": "Be strong and courageous. Do not fear or be in dread of them, for it is the LORD your God who goes with you. He will not leave you or forsake you.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Deuteronomy 8:3",
+      "text": "Man does not live by bread alone, but man lives by every word that comes from the mouth of the LORD.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Deuteronomy 18:15",
+      "text": "The LORD your God will raise up for you a prophet like me from among you, from your brothers—it is to him you shall listen.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Shema",
+      "reference": "Deuteronomy 6:4-9",
+      "summary": "Israel's central confession of faith, commanding wholehearted love for God and the teaching of His words to the next generation.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Blessings and Curses",
+      "reference": "Deuteronomy 28",
+      "summary": "Moses outlines the blessings for obedience and curses for disobedience, presenting Israel with a clear choice between life and death.",
+      "audiences": ["deeper"]
+    },
+    {
+      "title": "The Song of Moses",
+      "reference": "Deuteronomy 32",
+      "summary": "A prophetic poem recounting God's faithfulness and Israel's future unfaithfulness, serving as a witness against them.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The Shema (Deuteronomy 6:4-5) is Judaism's most important prayer, recited twice daily by observant Jews for thousands of years.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Jesus quoted Deuteronomy more than any other Old Testament book when resisting Satan's temptations (Matthew 4).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Deuteronomy ends with Moses' death on Mount Nebo, viewing the Promised Land he couldn't enter—likely written by Joshua.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The 'prophet like Moses' (18:15) is a key messianic prophecy fulfilled in Jesus (Acts 3:22).",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Moses",
+      "description": "Israel's greatest prophet, delivering his farewell addresses to prepare the next generation for life in the Promised Land. He dies at 120, his eyes undimmed.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Joshua",
+      "description": "Moses' assistant and successor, commissioned to lead Israel across the Jordan and conquer Canaan with God's presence and power.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Deuteronomy Overview",
+      "youtubeId": "q5QEH9bH8AU",
+      "description": "The Bible Project explores Moses' final words and the call to love God with all your heart.",
+      "audiences": ["all"]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "overview": "Ecclesiastes is a philosophical exploration of life's meaning. The 'Teacher' examines wealth, pleasure, wisdom, and work, finding all 'vanity' apart from God. It points to fearing God as life's true purpose.",
+  "verses": [
+    {
+      "reference": "Ecclesiastes 3:1",
+      "text": "For everything there is a season, and a time for every matter under heaven.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ecclesiastes 12:13",
+      "text": "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Ecclesiastes 1:2",
+      "text": "Vanity of vanities, says the Preacher, vanity of vanities! All is vanity.",
+      "audiences": ["exploring", "questions"]
+    },
+    {
+      "reference": "Ecclesiastes 4:9-10",
+      "text": "Two are better than one, because they have a good reward for their toil. For if they fall, one will lift up his fellow.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "A Time for Everything",
+      "reference": "Ecclesiastes 3:1-8",
+      "summary": "The famous poem about seasons of life—time to be born and die, weep and laugh, mourn and dance.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Remember Your Creator",
+      "reference": "Ecclesiastes 12:1-7",
+      "summary": "A poetic description of aging and death, urging readers to remember God while young.",
+      "audiences": ["exploring", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "'Vanity' (Hebrew 'hevel') means 'breath' or 'vapor'—life is fleeting and often puzzling, not necessarily meaningless.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The book is traditionally attributed to Solomon, the wisest and wealthiest man who had tried everything 'under the sun.'",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Ecclesiastes is read during the Jewish festival of Sukkot (Feast of Booths), reflecting on life's brevity.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The phrase 'under the sun' appears 29 times, describing life from a purely earthly perspective.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "The Teacher (Qoheleth)",
+      "description": "The author, traditionally identified as Solomon, who conducted a grand experiment seeking meaning in wisdom, pleasure, and achievement.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ecclesiastes Overview",
+      "youtubeId": "VeUiuSK81-0",
+      "description": "The Bible Project explores this honest book about life's struggles and fearing God.",
+      "audiences": ["all"]
+    }
+  ]
+}

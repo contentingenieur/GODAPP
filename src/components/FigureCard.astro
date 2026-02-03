@@ -1,0 +1,80 @@
+---
+interface Props {
+  name: string;
+  description: string;
+  audiences?: string[];
+}
+
+const { name, description, audiences = ['all'] } = Astro.props;
+---
+
+<div class="figure-card card" data-audiences={audiences.join(',')}>
+  <div class="figure-avatar">
+    {name.charAt(0)}
+  </div>
+  <div class="figure-content">
+    <h4 class="figure-name">{name}</h4>
+    <p class="figure-description">{description}</p>
+  </div>
+  {audiences.length > 0 && !audiences.includes('all') && (
+    <div class="figure-audiences">
+      {audiences.map(aud => (
+        <span class={`audience-tag audience-${aud}`}>
+          {aud.replace('-', ' ')}
+        </span>
+      ))}
+    </div>
+  )}
+</div>
+
+<style>
+  .figure-card {
+    display: flex;
+    gap: var(--space-4);
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .figure-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: var(--color-secondary);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-heading);
+    font-size: var(--text-xl);
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .figure-content {
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .figure-name {
+    font-family: var(--font-heading);
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0 0 var(--space-2) 0;
+  }
+
+  .figure-description {
+    font-size: var(--text-base);
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .figure-audiences {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-top: var(--space-2);
+  }
+</style>

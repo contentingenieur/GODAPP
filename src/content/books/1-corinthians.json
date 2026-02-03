@@ -1,0 +1,78 @@
+{
+  "overview": "1 Corinthians addresses a church full of problems—divisions, immorality, lawsuits, and chaos in worship. Paul calls them to unity in Christ and includes the famous love chapter and resurrection teaching.",
+  "verses": [
+    {
+      "reference": "1 Corinthians 13:4-7",
+      "text": "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Corinthians 10:13",
+      "text": "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 Corinthians 15:55-57",
+      "text": "O death, where is your victory? O death, where is your sting? The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Love Chapter",
+      "reference": "1 Corinthians 13",
+      "summary": "Without love, spiritual gifts mean nothing. Paul describes love's patient, kind character—the greatest of faith, hope, and love.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Resurrection",
+      "reference": "1 Corinthians 15",
+      "summary": "Paul's definitive teaching on resurrection—Christ's as historical fact, ours as certain hope. Without it, faith is futile.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Lord's Supper",
+      "reference": "1 Corinthians 11:23-26",
+      "summary": "Paul recounts Jesus' institution of communion—a proclamation of His death until He comes.",
+      "audiences": ["new-faith", "deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "1 Corinthians 13 is the most popular wedding text, though Paul wrote it about church life, not marriage.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "1 Corinthians 15 is the earliest written account of Christ's resurrection appearances (around AD 55).",
+      "audiences": ["questions", "deeper"]
+    },
+    {
+      "text": "Corinth was a wealthy port city famous for immorality—'to Corinthianize' meant to be sexually immoral.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Paul spent 18 months in Corinth and wrote this letter from Ephesus to address reports of problems.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The founder of the Corinthian church, writing as a spiritual father to correct and guide his troubled children in faith.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Apollos",
+      "description": "An eloquent teacher in Corinth whose followers formed a faction—though Apollos himself was Paul's partner, not rival.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1 Corinthians Overview",
+      "youtubeId": "yiHf8klCCc4",
+      "description": "The Bible Project explores Paul's letter to a church struggling with divisions and wisdom.",
+      "audiences": ["all"]
+    }
+  ]
+}

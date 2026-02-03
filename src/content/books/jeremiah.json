@@ -1,0 +1,88 @@
+{
+  "overview": "Jeremiah prophesied during Judah's final decades, warning of coming judgment while weeping for his people. Called 'the weeping prophet,' he also promised a new covenant written on hearts.",
+  "verses": [
+    {
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Jeremiah 31:33",
+      "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Jeremiah 33:3",
+      "text": "Call to me and I will answer you, and will tell you great and hidden things that you have not known.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Jeremiah 17:9",
+      "text": "The heart is deceitful above all things, and desperately sick; who can understand it?",
+      "audiences": ["questions", "deeper"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Call of Jeremiah",
+      "reference": "Jeremiah 1:4-10",
+      "summary": "God calls Jeremiah from before birth, promising to be with him despite his youth and the opposition he will face.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "The New Covenant",
+      "reference": "Jeremiah 31:31-34",
+      "summary": "God promises a new covenant unlike the old—His law written on hearts, sins forgiven, and intimate knowledge of Him.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Letter to the Exiles",
+      "reference": "Jeremiah 29",
+      "summary": "Jeremiah writes to those already in Babylon, telling them to settle in, pray for the city, and wait for God's timing.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Jeremiah 29:11 was written to exiles in Babylon, promising restoration after 70 years—not immediate deliverance.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Jeremiah was forbidden to marry, as a sign that normal life was ending for Judah (Jeremiah 16:2).",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The 'new covenant' Jeremiah prophesied is what Jesus established at the Last Supper (Luke 22:20).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Jeremiah's scribe Baruch wrote down his prophecies. The scroll was burned by King Jehoiakim, so they rewrote it with additions.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jeremiah",
+      "description": "The 'weeping prophet' who served faithfully for 40 years despite rejection, persecution, and seeing his warnings come true.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Baruch",
+      "description": "Jeremiah's faithful scribe and secretary who recorded his prophecies and shared in his sufferings.",
+      "audiences": ["deeper"]
+    },
+    {
+      "name": "Jehoiakim",
+      "description": "An evil king who burned Jeremiah's scroll piece by piece, showing contempt for God's word.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Jeremiah Overview",
+      "youtubeId": "RSK36cHbrk0",
+      "description": "The Bible Project explores the weeping prophet's message of judgment and hope.",
+      "audiences": ["all"]
+    }
+  ]
+}

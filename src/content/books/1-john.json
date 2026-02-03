@@ -1,0 +1,72 @@
+{
+  "overview": "1 John combats early heresies denying Jesus came in the flesh. John provides tests of authentic faith—believing truth about Christ, obeying His commands, and loving fellow believers.",
+  "verses": [
+    {
+      "reference": "1 John 1:9",
+      "text": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 John 4:8",
+      "text": "Anyone who does not love does not know God, because God is love.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 John 5:13",
+      "text": "I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "1 John 4:19",
+      "text": "We love because he first loved us.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Walking in the Light",
+      "reference": "1 John 1:5-2:2",
+      "summary": "God is light. If we claim fellowship with Him while walking in darkness, we lie. But if we confess, He forgives.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "God Is Love",
+      "reference": "1 John 4:7-21",
+      "summary": "Love comes from God—He showed His love by sending His Son. Those who love are born of God and know God.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "1 John never names its author, but early church tradition and vocabulary firmly link it to the apostle John.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "John combats early Gnosticism, which denied Jesus' true humanity—hence his emphasis that Jesus came 'in the flesh.'",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "'Love' appears over 50 times in this short letter—it's John's central theme.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "text": "John wrote so believers could 'know' they have eternal life (5:13)—assurance is possible.",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "John",
+      "description": "The 'apostle of love' and last surviving eyewitness, writing to preserve truth about Jesus and give assurance to believers.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "1-3 John Overview",
+      "youtubeId": "l3QkE6nKylM",
+      "description": "The Bible Project explores John's tests of authentic Christian faith.",
+      "audiences": ["all"]
+    }
+  ]
+}

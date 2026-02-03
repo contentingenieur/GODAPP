@@ -1,0 +1,68 @@
+{
+  "overview": "Zechariah contains dramatic visions and detailed messianic prophecies. From the humble king riding a donkey to the pierced one for whom Israel will mourn, Zechariah points clearly to Jesus.",
+  "verses": [
+    {
+      "reference": "Zechariah 9:9",
+      "text": "Rejoice greatly, O daughter of Zion! Shout aloud, O daughter of Jerusalem! Behold, your king is coming to you; righteous and having salvation is he, humble and mounted on a donkey, on a colt, the foal of a donkey.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Zechariah 12:10",
+      "text": "And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and pleas for mercy, so that, when they look on me, on him whom they have pierced, they shall mourn for him.",
+      "audiences": ["deeper"]
+    },
+    {
+      "reference": "Zechariah 4:6",
+      "text": "Not by might, nor by power, but by my Spirit, says the LORD of hosts.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The King on a Donkey",
+      "reference": "Zechariah 9:9-10",
+      "summary": "A prophecy of the Messiah entering Jerusalem humbly on a donkey—fulfilled precisely on Palm Sunday.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Thirty Pieces of Silver",
+      "reference": "Zechariah 11:12-13",
+      "summary": "The shepherd is valued at thirty pieces of silver, thrown to the potter—fulfilled in Judas's betrayal of Jesus.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Zechariah is the most quoted Minor Prophet in the Gospels' Passion narratives—his prophecies saturate Holy Week.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Jesus rode into Jerusalem on a donkey explicitly to fulfill Zechariah 9:9 (Matthew 21:4-5).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Zechariah 4:6 is quoted whenever people need to remember that God's work is accomplished by His Spirit, not human effort.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Zechariah",
+      "description": "A priest-prophet who encouraged the temple rebuilding through eight visions and pointed to the coming Messiah.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Joshua (the High Priest)",
+      "description": "A high priest whom Zechariah sees symbolically cleansed, representing the nation's forgiveness and restoration.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Zechariah Overview",
+      "youtubeId": "_106ovo1dmg",
+      "description": "The Bible Project explores Zechariah's visions and messianic prophecies.",
+      "audiences": ["all"]
+    }
+  ]
+}

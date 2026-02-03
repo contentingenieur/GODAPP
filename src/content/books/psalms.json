@@ -1,0 +1,97 @@
+{
+  "overview": "Psalms is Israel's hymnbook and prayer book—150 poems expressing the full range of human emotion before God. From deepest despair to highest praise, the Psalms teach us how to worship and pray.",
+  "verses": [
+    {
+      "reference": "Psalm 23:1",
+      "text": "The LORD is my shepherd; I shall not want.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Psalm 46:1",
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Psalm 119:105",
+      "text": "Your word is a lamp to my feet and a light to my path.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Psalm 139:14",
+      "text": "I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Psalm 51:10",
+      "text": "Create in me a clean heart, O God, and renew a right spirit within me.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Shepherd Psalm",
+      "reference": "Psalm 23",
+      "summary": "Perhaps the most beloved chapter in the Bible, portraying God as a caring shepherd who provides, guides, and protects through every circumstance.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Confession Psalm",
+      "reference": "Psalm 51",
+      "summary": "David's prayer after his sin with Bathsheba—a model of genuine repentance, asking God for cleansing and restoration.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "The Word of God Psalm",
+      "reference": "Psalm 119",
+      "summary": "The longest chapter in the Bible, an acrostic poem celebrating God's word with 176 verses of devoted love for Scripture.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Psalms is the most quoted Old Testament book in the New Testament, with over 100 direct quotations.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "David wrote about half of the Psalms. Other authors include Moses, Solomon, Asaph, and the sons of Korah.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Psalm 117 is the shortest chapter in the Bible (2 verses), while Psalm 119 is the longest (176 verses).",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "The Psalms include many types: praise, lament, thanksgiving, wisdom, royal, and imprecatory (calling for judgment on enemies).",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Jesus quoted Psalms from the cross: 'My God, my God, why have you forsaken me?' (Psalm 22) and 'Into your hands I commit my spirit' (Psalm 31).",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "David",
+      "description": "Israel's shepherd-king and 'sweet psalmist of Israel' who wrote approximately 73 psalms expressing every human emotion before God.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Asaph",
+      "description": "A Levite worship leader appointed by David, who wrote 12 psalms and founded a family of temple musicians.",
+      "audiences": ["deeper"]
+    },
+    {
+      "name": "Sons of Korah",
+      "description": "Descendants of Korah (who died in rebellion) who became temple musicians and wrote beautiful psalms of longing for God.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Psalms Overview",
+      "youtubeId": "j9phNEaPrv8",
+      "description": "The Bible Project explores the structure and themes of Israel's prayer and worship book.",
+      "audiences": ["all"]
+    }
+  ]
+}

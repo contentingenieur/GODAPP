@@ -1,0 +1,88 @@
+{
+  "overview": "Hebrews demonstrates Christ's superiority over all Old Testament institutions—angels, Moses, priesthood, sacrifices. It warns against falling away and encourages perseverance through Jesus, the perfect High Priest.",
+  "verses": [
+    {
+      "reference": "Hebrews 4:12",
+      "text": "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Hebrews 11:1",
+      "text": "Now faith is the assurance of things hoped for, the conviction of things not seen.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Hebrews 12:1-2",
+      "text": "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Hebrews 13:8",
+      "text": "Jesus Christ is the same yesterday and today and forever.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Jesus, the Superior High Priest",
+      "reference": "Hebrews 4:14-16",
+      "summary": "Jesus is the great high priest who sympathizes with our weaknesses, enabling us to approach God's throne with confidence.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Hall of Faith",
+      "reference": "Hebrews 11",
+      "summary": "A gallery of Old Testament heroes who lived by faith, not sight—inspiring examples for the Christian journey.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Race of Faith",
+      "reference": "Hebrews 12:1-3",
+      "summary": "With witnesses cheering us on, we run the race looking to Jesus, who endured the cross for joy set before Him.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Hebrews' author is unknown—guesses include Paul, Apollos, Barnabas, or Priscilla. As Origen said, 'God alone knows.'",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The book was written to Jewish Christians tempted to return to Judaism under persecution.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Hebrews quotes the Old Testament more than any other New Testament book—over 30 direct quotations.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Five warning passages interrupt the argument, showing the serious danger of falling away from Christ.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jesus",
+      "description": "The superior High Priest who offered Himself once for all, securing eternal redemption and access to God.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Melchizedek",
+      "description": "A mysterious priest-king to whom Abraham tithed, whose eternal priesthood foreshadows Christ's.",
+      "audiences": ["deeper"]
+    },
+    {
+      "name": "Abraham",
+      "description": "The father of faith who obeyed God without knowing where he was going, looking for a heavenly city.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Hebrews Overview",
+      "youtubeId": "1fNWTZZwgbs",
+      "description": "The Bible Project explores how Jesus is greater than everything in the old covenant.",
+      "audiences": ["all"]
+    }
+  ]
+}

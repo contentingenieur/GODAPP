@@ -1,0 +1,167 @@
+---
+import audiences from '../data/audiences.json';
+
+interface Props {
+  selectedAudience?: string;
+}
+
+const { selectedAudience = 'all' } = Astro.props;
+---
+
+<div class="audience-filter">
+  <div class="audience-label">View content for:</div>
+  <div class="audience-tabs" role="tablist">
+    <button
+      role="tab"
+      class:list={["audience-tab", { active: selectedAudience === 'all' }]}
+      data-audience="all"
+      aria-selected={selectedAudience === 'all'}
+    >
+      All Content
+    </button>
+    {audiences.map(audience => (
+      <button
+        role="tab"
+        class:list={["audience-tab", `audience-${audience.id}`, { active: selectedAudience === audience.id }]}
+        data-audience={audience.id}
+        aria-selected={selectedAudience === audience.id}
+        title={audience.description}
+      >
+        {audience.name}
+      </button>
+    ))}
+  </div>
+</div>
+
+<script>
+  const tabs = document.querySelectorAll('.audience-tab');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const audience = tab.getAttribute('data-audience');
+
+      // Update active state
+      tabs.forEach(t => {
+        t.classList.remove('active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      tab.classList.add('active');
+      tab.setAttribute('aria-selected', 'true');
+
+      // Save preference
+      if (audience) {
+        localStorage.setItem('selectedAudience', audience);
+        document.documentElement.setAttribute('data-audience', audience);
+      }
+
+      // Filter content
+      filterContent(audience || 'all');
+    });
+  });
+
+  function filterContent(audience: string) {
+    const contentItems = document.querySelectorAll('[data-audiences]');
+
+    contentItems.forEach(item => {
+      const audiences = item.getAttribute('data-audiences')?.split(',') || [];
+      const element = item as HTMLElement;
+
+      if (audience === 'all' || audiences.includes(audience) || audiences.includes('all')) {
+        element.style.display = '';
+        element.classList.remove('hidden');
+      } else {
+        element.style.display = 'none';
+        element.classList.add('hidden');
+      }
+    });
+  }
+
+  // Apply saved preference on load
+  document.addEventListener('DOMContentLoaded', () => {
+    const saved = localStorage.getItem('selectedAudience');
+    if (saved && saved !== 'all') {
+      const tab = document.querySelector(`[data-audience="${saved}"]`);
+      if (tab) {
+        (tab as HTMLElement).click();
+      }
+    }
+  });
+</script>
+
+<style>
+  .audience-filter {
+    background-color: var(--color-surface);
+    border-radius: var(--radius-lg);
+    padding: var(--space-4);
+    margin-bottom: var(--space-6);
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--color-border-light);
+  }
+
+  .audience-label {
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+    margin-bottom: var(--space-3);
+  }
+
+  .audience-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .audience-tab {
+    padding: var(--space-2) var(--space-4);
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    background-color: var(--color-background);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    color: var(--color-text);
+  }
+
+  .audience-tab:hover {
+    border-color: var(--color-accent);
+  }
+
+  .audience-tab.active {
+    background-color: var(--color-accent);
+    border-color: var(--color-accent);
+    color: white;
+  }
+
+  /* Audience-specific colors when active */
+  .audience-tab.audience-exploring.active {
+    background-color: var(--color-exploring);
+    border-color: var(--color-exploring);
+  }
+
+  .audience-tab.audience-questions.active {
+    background-color: var(--color-questions);
+    border-color: var(--color-questions);
+  }
+
+  .audience-tab.audience-new-faith.active {
+    background-color: var(--color-new-faith);
+    border-color: var(--color-new-faith);
+  }
+
+  .audience-tab.audience-deeper.active {
+    background-color: var(--color-deeper);
+    border-color: var(--color-deeper);
+  }
+
+  @media (max-width: 600px) {
+    .audience-tabs {
+      gap: var(--space-1);
+    }
+
+    .audience-tab {
+      padding: var(--space-2) var(--space-3);
+      font-size: var(--text-xs);
+    }
+  }
+</style>

@@ -1,0 +1,88 @@
+{
+  "overview": "2 Kings continues the history of the divided kingdom through its tragic end. The northern kingdom falls to Assyria, and Judah eventually falls to Babylon, fulfilling prophetic warnings about covenant unfaithfulness.",
+  "verses": [
+    {
+      "reference": "2 Kings 17:13",
+      "text": "Yet the LORD warned Israel and Judah by every prophet and every seer, saying, 'Turn from your evil ways and keep my commandments and my statutes.'",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "2 Kings 2:11",
+      "text": "And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven.",
+      "audiences": ["exploring"]
+    },
+    {
+      "reference": "2 Kings 5:15",
+      "text": "Then he returned to the man of God, he and all his company, and he came and stood before him. And he said, 'Behold, I know that there is no God in all the earth but in Israel.'",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Elijah's Departure",
+      "reference": "2 Kings 2:1-14",
+      "summary": "Elijah is taken to heaven in a whirlwind with chariots of fire. Elisha receives his mantle and a double portion of his spirit.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Naaman's Healing",
+      "reference": "2 Kings 5",
+      "summary": "A Syrian general with leprosy is healed by washing in the Jordan River, learning that Israel's God is the only true God.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "title": "The Fall of Jerusalem",
+      "reference": "2 Kings 25",
+      "summary": "Babylon destroys Jerusalem and the temple, taking Judah into exile. The Davidic line continues, but the kingdom is lost.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The northern kingdom of Israel fell to Assyria in 722 BC. Its people were scattered and never returned as a distinct nation.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Judah fell to Babylon in 586 BC, exactly as prophets like Jeremiah had warned for decades.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Elisha performed twice as many recorded miracles as Elijah, receiving the 'double portion' he requested.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "text": "Good kings like Hezekiah and Josiah brought spiritual reforms, but couldn't ultimately prevent judgment for the nation's accumulated sin.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Elisha",
+      "description": "Elijah's successor who received a double portion of his spirit. He performed many miracles including healing Naaman and raising the dead.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Hezekiah",
+      "description": "A good king of Judah who trusted God during Assyria's siege. God miraculously delivered Jerusalem and added 15 years to his life.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Josiah",
+      "description": "Judah's last good king who rediscovered the Book of the Law and led national repentance, though it couldn't avert coming judgment.",
+      "audiences": ["deeper"]
+    },
+    {
+      "name": "Naaman",
+      "description": "A Syrian military commander whose leprosy was healed when he obeyed Elisha's simple instruction to wash in the Jordan River.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "2 Kings Overview",
+      "youtubeId": "zPwL8jNM5i0",
+      "description": "The Bible Project traces the tragic decline and fall of both Israelite kingdoms.",
+      "audiences": ["all"]
+    }
+  ]
+}

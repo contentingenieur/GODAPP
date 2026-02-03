@@ -1,0 +1,103 @@
+{
+  "overview": "Genesis, meaning 'origin' or 'beginning,' is the foundational book of the Bible. It covers creation, the fall of humanity, the flood, and the stories of the patriarchs Abraham, Isaac, Jacob, and Joseph, spanning roughly 2,300 years of history.",
+  "verses": [
+    {
+      "reference": "Genesis 1:1",
+      "text": "In the beginning, God created the heavens and the earth.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Genesis 1:27",
+      "text": "So God created man in his own image, in the image of God he created him; male and female he created them.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Genesis 12:2-3",
+      "text": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.",
+      "audiences": ["deeper"]
+    },
+    {
+      "reference": "Genesis 50:20",
+      "text": "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Creation Account",
+      "reference": "Genesis 1-2",
+      "summary": "God creates the universe in six days, culminating in the creation of humanity. God rests on the seventh day, establishing the pattern of Sabbath rest.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Fall of Humanity",
+      "reference": "Genesis 3",
+      "summary": "Adam and Eve disobey God by eating from the forbidden tree, introducing sin and death into the world. God promises a future deliverer who will crush the serpent.",
+      "audiences": ["exploring", "questions"]
+    },
+    {
+      "title": "The Call of Abraham",
+      "reference": "Genesis 12:1-9",
+      "summary": "God calls Abram to leave his homeland and promises to make him into a great nation through whom all peoples will be blessed—the beginning of God's covenant with Israel.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Genesis covers more time than all other books of the Bible combined—from creation to Joseph's death in Egypt, spanning thousands of years.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The word 'genesis' comes from the Greek word for 'origin' or 'beginning.' The Hebrew title is 'Bereshit,' meaning 'In the beginning.'",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Genesis contains the first messianic prophecy (Genesis 3:15), often called the 'protoevangelium' or 'first gospel,' pointing to Christ crushing Satan.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The book records ten 'toledot' (generations/accounts), a structural marker that divides the book into major sections.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Joseph's story takes up nearly a quarter of Genesis (chapters 37-50), highlighting themes of forgiveness and God's providence.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Adam",
+      "description": "The first human, created from dust and given the breath of life. His disobedience brought sin into the world, but he also received the first promise of redemption.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Noah",
+      "description": "A righteous man who found favor with God during a time of great wickedness. God saved him and his family through the ark during the worldwide flood.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Abraham",
+      "description": "The father of faith, called by God to leave his homeland. He believed God's promise of descendants and land, and his faith was credited as righteousness.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Joseph",
+      "description": "Jacob's favored son, sold into slavery by his brothers. Through trials and God's providence, he rose to become second-in-command of Egypt, saving his family from famine.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Genesis 1-11 Overview",
+      "youtubeId": "GQI72THyO5I",
+      "description": "The Bible Project's visual overview of Genesis chapters 1-11, covering creation through the tower of Babel.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Genesis 12-50 Overview",
+      "youtubeId": "F4isSyennFo",
+      "description": "The Bible Project's overview of the patriarchal narratives—Abraham, Isaac, Jacob, and Joseph.",
+      "audiences": ["all"]
+    }
+  ]
+}

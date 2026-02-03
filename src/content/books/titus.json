@@ -1,0 +1,63 @@
+{
+  "overview": "Titus is pastoral instruction for organizing churches on the island of Crete. It emphasizes appointing godly leaders and living in a way that adorns the gospel in a morally corrupt culture.",
+  "verses": [
+    {
+      "reference": "Titus 2:11-12",
+      "text": "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Titus 3:5",
+      "text": "He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Grace That Trains",
+      "reference": "Titus 2:11-14",
+      "summary": "God's saving grace doesn't just forgive—it trains us to live godly lives while we await Christ's return.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Good Works",
+      "reference": "Titus 3:1-8",
+      "summary": "Saved by mercy, not works, believers are now 'zealous for good works'—grace produces, not earns, godliness.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Cretans had a reputation for dishonesty—Paul even quotes a Cretan prophet who called them 'liars' (1:12).",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Titus is not mentioned in Acts but was Paul's trusted troubleshooter for difficult situations.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "'Good works' appears six times in this short letter, emphasizing visible evidence of genuine faith.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Paul",
+      "description": "The apostle giving practical instruction for establishing healthy churches in a challenging culture.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Titus",
+      "description": "Paul's trusted partner, a Gentile convert who handled difficult assignments like organizing Cretan churches.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Titus Overview",
+      "youtubeId": "PUEYCVXJM3k",
+      "description": "The Bible Project explores how grace trains for godly living.",
+      "audiences": ["all"]
+    }
+  ]
+}

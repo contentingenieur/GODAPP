@@ -1,0 +1,77 @@
+{
+  "overview": "Mark is the shortest, fastest-paced Gospel, presenting Jesus as the powerful Servant who suffers for humanity. Written for Roman readers, it emphasizes action over teaching with frequent use of 'immediately.'",
+  "verses": [
+    {
+      "reference": "Mark 10:45",
+      "text": "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Mark 8:34-35",
+      "text": "If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Mark 1:15",
+      "text": "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.",
+      "audiences": ["exploring", "new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "Peter's Confession",
+      "reference": "Mark 8:27-33",
+      "summary": "Peter declares Jesus is the Christ, but then rebukes Jesus for predicting His death—showing he didn't understand what kind of Messiah Jesus would be.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Crucifixion",
+      "reference": "Mark 15:21-39",
+      "summary": "Jesus is crucified between two criminals. At His death, a Roman centurion declares, 'Truly this man was the Son of God!'",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The word 'immediately' appears about 40 times in Mark, giving the Gospel a sense of urgency and action.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Mark is likely based on Peter's eyewitness testimony—early church tradition says Mark was Peter's interpreter.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Mark is probably the earliest Gospel written, possibly in the 50s or 60s AD.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "The Gospel originally may have ended at 16:8 with the women fleeing in fear—a shocking, abrupt ending that invites reader response.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Jesus",
+      "description": "The powerful yet suffering Servant of God who performs miracles, casts out demons, and gives His life as a ransom.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Mark (John Mark)",
+      "description": "A companion of Paul and Peter who wrote the earliest Gospel. He failed on one mission trip but later proved faithful.",
+      "audiences": ["exploring"]
+    },
+    {
+      "name": "The Twelve",
+      "description": "Jesus' chosen disciples who often misunderstand Him, yet are called to follow the suffering Servant's path.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Mark Overview",
+      "youtubeId": "HGHqu9-DtXk",
+      "description": "The Bible Project explores Mark's portrait of Jesus as the suffering Servant.",
+      "audiences": ["all"]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "overview": "Numbers chronicles Israel's 40-year wilderness journey from Sinai to the plains of Moab. It's named for the two censuses of Israel and reveals both God's faithfulness and the consequences of unbelief.",
+  "verses": [
+    {
+      "reference": "Numbers 6:24-26",
+      "text": "The LORD bless you and keep you; the LORD make his face to shine upon you and be gracious to you; the LORD lift up his countenance upon you and give you peace.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Numbers 23:19",
+      "text": "God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?",
+      "audiences": ["exploring", "questions"]
+    },
+    {
+      "reference": "Numbers 14:18",
+      "text": "The LORD is slow to anger and abounding in steadfast love, forgiving iniquity and transgression.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Twelve Spies",
+      "reference": "Numbers 13-14",
+      "summary": "Twelve spies explore Canaan; ten give a fearful report, but Joshua and Caleb trust God. Israel's unbelief results in 40 years of wandering.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "The Bronze Serpent",
+      "reference": "Numbers 21:4-9",
+      "summary": "When poisonous snakes afflict Israel, God instructs Moses to make a bronze serpent. All who look at it live—Jesus references this as a picture of His crucifixion.",
+      "audiences": ["exploring", "deeper"]
+    },
+    {
+      "title": "Balaam's Blessing",
+      "reference": "Numbers 22-24",
+      "summary": "A pagan prophet is hired to curse Israel but can only bless them, declaring a future star and scepter from Jacob—a messianic prophecy.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "The priestly blessing (Numbers 6:24-26) has been used in Jewish and Christian worship for over 3,000 years.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "The 40 years of wandering meant an entire generation died in the wilderness—everyone over 20 except Joshua and Caleb.",
+      "audiences": ["exploring"]
+    },
+    {
+      "text": "Jesus compared His crucifixion to Moses lifting up the bronze serpent (John 3:14-15).",
+      "audiences": ["new-faith", "deeper"]
+    },
+    {
+      "text": "Balaam's donkey speaking is one of only two times in Scripture an animal speaks (the serpent in Eden being the other).",
+      "audiences": ["exploring"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Moses",
+      "description": "Israel's leader through the wilderness, who faithfully interceded for the rebellious people but was not allowed to enter the Promised Land due to his own disobedience.",
+      "audiences": ["all"]
+    },
+    {
+      "name": "Joshua",
+      "description": "One of the two faithful spies who trusted God's promise. He would become Moses' successor and lead Israel into Canaan.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "name": "Caleb",
+      "description": "The other faithful spy who, at 85 years old, still had the strength and faith to claim his inheritance in the Promised Land.",
+      "audiences": ["new-faith"]
+    },
+    {
+      "name": "Balaam",
+      "description": "A pagan prophet whose greed led him to attempt cursing Israel. Though God turned his curses to blessings, Balaam later led Israel into sin.",
+      "audiences": ["deeper"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Numbers Overview",
+      "youtubeId": "tp5MIrMZFqo",
+      "description": "The Bible Project's visual overview of Numbers and Israel's wilderness wanderings.",
+      "audiences": ["all"]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "overview": "Malachi, the final Old Testament book, addresses a spiritually apathetic post-exilic community. Through a dialogue format, God confronts their half-hearted worship and promises a coming messenger to prepare the way.",
+  "verses": [
+    {
+      "reference": "Malachi 3:10",
+      "text": "Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need.",
+      "audiences": ["all"]
+    },
+    {
+      "reference": "Malachi 4:2",
+      "text": "But for you who fear my name, the sun of righteousness shall rise with healing in its wings.",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "reference": "Malachi 3:1",
+      "text": "Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple.",
+      "audiences": ["all"]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Coming Messenger",
+      "reference": "Malachi 3:1-4",
+      "summary": "God promises to send a messenger to prepare the way—fulfilled in John the Baptist—before the Lord Himself comes.",
+      "audiences": ["all"]
+    },
+    {
+      "title": "Elijah's Return",
+      "reference": "Malachi 4:5-6",
+      "summary": "The final Old Testament words promise Elijah will come before the great day of the LORD—fulfilled in John the Baptist.",
+      "audiences": ["all"]
+    }
+  ],
+  "facts": [
+    {
+      "text": "Malachi ends the Old Testament, and 400 years of prophetic silence follow until John the Baptist—the messenger promised here.",
+      "audiences": ["all"]
+    },
+    {
+      "text": "Jesus confirmed that John the Baptist was the 'Elijah' Malachi promised (Matthew 11:14).",
+      "audiences": ["exploring", "new-faith"]
+    },
+    {
+      "text": "Malachi uses a question-and-answer format throughout, with the people challenging God and God responding.",
+      "audiences": ["deeper"]
+    },
+    {
+      "text": "Malachi 3:10 is the only place in Scripture where God invites people to 'test' Him.",
+      "audiences": ["new-faith"]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Malachi",
+      "description": "The final Old Testament prophet whose name means 'my messenger.' He prepared Israel for the long wait until John the Baptist.",
+      "audiences": ["all"]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Malachi Overview",
+      "youtubeId": "HPGShWZ4Jvk",
+      "description": "The Bible Project explores the Old Testament's final book and its promise of a coming messenger.",
+      "audiences": ["all"]
+    }
+  ]
+}

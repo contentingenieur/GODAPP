@@ -1,0 +1,54 @@
+---
+interface Props {
+  fact: string;
+  audiences?: string[];
+}
+
+const { fact, audiences = ['all'] } = Astro.props;
+---
+
+<div class="fact-card card" data-audiences={audiences.join(',')}>
+  <div class="fact-icon">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="10"/>
+      <line x1="12" y1="16" x2="12" y2="12"/>
+      <line x1="12" y1="8" x2="12.01" y2="8"/>
+    </svg>
+  </div>
+  <p class="fact-text">{fact}</p>
+  {audiences.length > 0 && !audiences.includes('all') && (
+    <div class="fact-audiences">
+      {audiences.map(aud => (
+        <span class={`audience-tag audience-${aud}`}>
+          {aud.replace('-', ' ')}
+        </span>
+      ))}
+    </div>
+  )}
+</div>
+
+<style>
+  .fact-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .fact-icon {
+    color: var(--color-accent);
+    flex-shrink: 0;
+  }
+
+  .fact-text {
+    font-size: var(--text-base);
+    line-height: 1.6;
+    color: var(--color-text);
+    margin: 0;
+  }
+
+  .fact-audiences {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+</style>
